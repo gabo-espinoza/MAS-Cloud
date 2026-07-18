@@ -47,7 +47,7 @@ No se usan logs reales de produccion por razones de confidencialidad y etica.
 El generador estocastico (semilla fija) reproduce distribuciones inspiradas en
 MITRE ATT&CK for Cloud (TA0004, TA0008, TA0010) y en el caso Capital One (2019).
 
-## Nota de diseno
+## Nota de diseño
 Los agentes se implementan como nodos deterministas (reglas + ML clasico) para
 garantizar 100% de reproducibilidad offline. El grafo de LangGraph es
 directamente extensible: cualquier nodo (p. ej. ThreatHuntingAgent) puede
@@ -75,9 +75,6 @@ python3 mas_simulation_llm.py
 ```
 
 Genera `data/response_log_llm.json`, `data/fused_alerts_llm.json` y
-`data/llm_transcript.jsonl` (prompt + respuesta cruda de cada llamada, util
-para mostrar evidencia de las decisiones del LLM en la sustentacion aunque
-no haya internet disponible en el momento de presentar).
+`data/llm_transcript.jsonl` (prompt + respuesta cruda de cada llamada.)
 
-Nota: requiere salida de red hacia `api.deepseek.com`; no funciona en
-entornos con egress restringido a una lista blanca de dominios.
+
