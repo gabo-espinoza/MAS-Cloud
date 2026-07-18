@@ -1,0 +1,2855 @@
+[
+  {
+    "event_id": "EVT-000010",
+    "predicted_class": 1,
+    "confidence": 0.9637301587301587,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Alta confianza en ML y corroborado por reglas, pero las features muestran baja actividad y sin permisos peligrosos."
+  },
+  {
+    "event_id": "EVT-001289",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML, corroborado, alta transferencia de datos, permisos wildcard, sin MFA y en horario no laboral."
+  },
+  {
+    "event_id": "EVT-004511",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML, corroborado, múltiples recursos tocados, permisos wildcard, nuevo rol asumido y sin MFA."
+  },
+  {
+    "event_id": "EVT-003826",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML y corroborado, pero con MFA presente y sin nuevo rol, aunque alta tasa de requests."
+  },
+  {
+    "event_id": "EVT-005892",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado por reglas; alta transferencia de datos pero sin permisos wildcard ni nuevo rol."
+  },
+  {
+    "event_id": "EVT-005312",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML, corroborado, múltiples recursos, permisos wildcard, nuevo rol y alta transferencia de datos."
+  },
+  {
+    "event_id": "EVT-003327",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML, corroborado, múltiples recursos, permisos wildcard, nuevo rol y sin MFA."
+  },
+  {
+    "event_id": "EVT-005823",
+    "predicted_class": 2,
+    "confidence": 0.9566666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML, corroborado, múltiples recursos, permisos wildcard, nuevo rol y sin MFA."
+  },
+  {
+    "event_id": "EVT-002881",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML, corroborado, alta transferencia de datos, permisos wildcard y sin MFA."
+  },
+  {
+    "event_id": "EVT-005177",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado; nuevo rol asumido y sin MFA, pero sin permisos wildcard."
+  },
+  {
+    "event_id": "EVT-001901",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y agente de configuracion corroboran. Features muestran ACL publica, permisos wildcard, sin MFA y actividad en horario no laboral, indicando configuracion insegura."
+  },
+  {
+    "event_id": "EVT-001997",
+    "predicted_class": 2,
+    "confidence": 0.9566666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza pero no corroborado por configuracion. Features muestran multiples recursos y horario no laboral, pero sin evidencia adicional de configuracion."
+  },
+  {
+    "event_id": "EVT-003010",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 0.99 y agente de configuracion corroboran. Features muestran alta entropia, muchas solicitudes, ACL publica, permisos wildcard, gran transferencia de datos y sin MFA, consistente con exfiltracion."
+  },
+  {
+    "event_id": "EVT-005981",
+    "predicted_class": 2,
+    "confidence": 0.9233333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 0.923 pero no corroborado por configuracion. Features muestran alta entropia y multiples recursos, pero sin evidencia de configuracion insegura."
+  },
+  {
+    "event_id": "EVT-002626",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y agente de configuracion corroboran. Features muestran ACL publica, nuevo rol asumido y sin MFA, indicando configuracion insegura."
+  },
+  {
+    "event_id": "EVT-001942",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y agente de configuracion corroboran. Features muestran ACL publica, permisos wildcard, nuevo rol asumido y sin MFA, consistente con configuracion insegura."
+  },
+  {
+    "event_id": "EVT-003077",
+    "predicted_class": 2,
+    "confidence": 0.9066666666666666,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 0.907 y agente de configuracion corrobora. Features muestran alta entropia, multiples recursos, permisos wildcard y horario no laboral, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002929",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0 pero no corroborado por configuracion. Features muestran alta entropia, multiples recursos y nuevo rol asumido, pero sin evidencia de configuracion insegura."
+  },
+  {
+    "event_id": "EVT-004051",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltracion con confianza 1.0 pero no corroborado por configuracion. Features muestran alta entropia, muchas solicitudes, gran transferencia de datos y nuevo rol asumido, indicativo de exfiltracion aunque sin corroboracion de configuracion."
+  },
+  {
+    "event_id": "EVT-003182",
+    "predicted_class": 1,
+    "confidence": 0.9803921568627452,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 0.98 y agente de configuracion corroboran. Features muestran ACL publica y horario no laboral, consistente con configuracion insegura."
+  },
+  {
+    "event_id": "EVT-002580",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública, wildcard IAM, nuevo rol, sin MFA, y transferencia de datos moderada indican exposición crítica."
+  },
+  {
+    "event_id": "EVT-005905",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública, wildcard IAM, nuevo rol, sin MFA, y actividad en horario no laboral aumentan riesgo."
+  },
+  {
+    "event_id": "EVT-004142",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública y alta transferencia de datos, pero sin wildcard IAM ni nuevo rol, riesgo moderado."
+  },
+  {
+    "event_id": "EVT-005979",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública y wildcard IAM, pero con MFA presente y baja transferencia, riesgo medio."
+  },
+  {
+    "event_id": "EVT-004249",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública, wildcard IAM, nuevo rol, pero con MFA y baja actividad, riesgo medio."
+  },
+  {
+    "event_id": "EVT-000597",
+    "predicted_class": 1,
+    "confidence": 0.9300709219858155,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 0.93, pero reglas no corroboran. Sin ACL pública ni wildcard IAM, riesgo bajo."
+  },
+  {
+    "event_id": "EVT-003953",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública, wildcard IAM, nuevo rol, sin MFA, y actividad en horario no laboral indican riesgo alto."
+  },
+  {
+    "event_id": "EVT-005811",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, reglas corroboran. Alta entropía IP, muchas peticiones, gran transferencia de datos, ACL pública y wildcard IAM indican exfiltración activa."
+  },
+  {
+    "event_id": "EVT-003171",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública y transferencia de datos significativa, pero sin wildcard IAM ni nuevo rol, riesgo medio."
+  },
+  {
+    "event_id": "EVT-001658",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden. ACL pública, wildcard IAM, y transferencia de datos alta, pero con MFA y baja actividad, riesgo medio."
+  },
+  {
+    "event_id": "EVT-002083",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent, con alta transferencia de datos (732 MB), alta entropía IP, permisos wildcard y ACL pública, indicando exfiltración activa."
+  },
+  {
+    "event_id": "EVT-000812",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard, aunque baja actividad, sugiere riesgo de exposición."
+  },
+  {
+    "event_id": "EVT-003325",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, pero no corroborado por config agent. Features muestran múltiples recursos y nuevo rol, pero sin evidencia de config insegura."
+  },
+  {
+    "event_id": "EVT-000950",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, corroborado por config agent, con múltiples recursos, nuevo rol y permisos wildcard, indicando escalada de privilegios."
+  },
+  {
+    "event_id": "EVT-000913",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard, aunque baja actividad, sugiere riesgo de exposición."
+  },
+  {
+    "event_id": "EVT-003498",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública pero sin wildcard y con MFA presente, riesgo mitigado."
+  },
+  {
+    "event_id": "EVT-005362",
+    "predicted_class": 1,
+    "confidence": 0.9759722836503022,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con permisos wildcard y transferencia de datos moderada, sugiere riesgo de exposición."
+  },
+  {
+    "event_id": "EVT-003651",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, pero no corroborado por config agent. Features muestran alta actividad y nuevo rol, pero sin evidencia de config insegura."
+  },
+  {
+    "event_id": "EVT-001440",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, pero no corroborado por config agent. Alta transferencia de datos (131 MB) y alta entropía IP, pero sin ACL pública ni wildcard."
+  },
+  {
+    "event_id": "EVT-003225",
+    "predicted_class": 3,
+    "confidence": 0.96,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, pero no corroborado por config agent. Alta transferencia de datos (213 MB) y alta tasa de requests, pero sin ACL pública ni wildcard."
+  },
+  {
+    "event_id": "EVT-004911",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, IAM wildcard, off_hours, baja entropía y pocas peticiones, consistente con configuración insegura."
+  },
+  {
+    "event_id": "EVT-001041",
+    "predicted_class": 1,
+    "confidence": 0.9094747474747475,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: IAM wildcard, off_hours, sin MFA, entropía media, consistente con configuración insegura."
+  },
+  {
+    "event_id": "EVT-004825",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML predice movimiento lateral con alta confianza, pero reglas no corroboran. Features: alta entropía, muchas peticiones, nuevo rol asumido, sin MFA, sugiere movimiento lateral pero falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-000795",
+    "predicted_class": 3,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración. Features: alta entropía, muchas peticiones, ACL pública, IAM wildcard, nuevo rol, alta transferencia de datos, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-001415",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, IAM wildcard, baja entropía, pocas peticiones, sin transferencia significativa, consistente con configuración insegura pero baja actividad."
+  },
+  {
+    "event_id": "EVT-005043",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML predice exfiltración con alta confianza, pero reglas no corroboran. Features: alta entropía, muchas peticiones, alta transferencia de datos, off_hours, sin MFA, sugiere exfiltración pero falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-002239",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración. Features: alta entropía, muchas peticiones, ACL pública, nuevo rol, alta transferencia, off_hours, sin MFA, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-005690",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración. Features: alta entropía, muchas peticiones, ACL pública, IAM wildcard, alta transferencia, off_hours, sin MFA, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-004896",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, IAM wildcard, nuevo rol, off_hours, sin MFA, consistente con configuración insegura."
+  },
+  {
+    "event_id": "EVT-002920",
+    "predicted_class": 1,
+    "confidence": 0.9626339869281044,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: IAM wildcard, baja entropía, sin peticiones, sin transferencia, consistente con configuración insegura pero sin actividad."
+  },
+  {
+    "event_id": "EVT-000402",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, pero config agent no corrobora. Features muestran alta transferencia de datos y horario atípico, pero falta evidencia de config insegura."
+  },
+  {
+    "event_id": "EVT-005330",
+    "predicted_class": 1,
+    "confidence": 0.9533333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 0.953 y config agent corrobora. Features muestran permisos wildcard IAM, consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-001352",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con confianza 1.0 y config agent corrobora. Features: alta transferencia de datos, horario atípico, permisos wildcard IAM, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-001277",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con confianza 1.0 y config agent corrobora. Features: ACL pública, nuevo rol asumido, alta transferencia de datos, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-003276",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública y permisos wildcard IAM, consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-002750",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 0.997 y config agent corrobora. Features: ACL pública y nuevo rol asumido, consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-001781",
+    "predicted_class": 1,
+    "confidence": 0.94,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 0.94 pero config agent no corrobora. Features no muestran evidencia clara de misconfiguration (sin ACL pública ni wildcard)."
+  },
+  {
+    "event_id": "EVT-005280",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública, permisos wildcard IAM, nuevo rol asumido, consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-001717",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0 y config agent corrobora. Features: alta entropía IP, múltiples recursos, permisos wildcard, nuevo rol asumido, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-005424",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública y nuevo rol asumido, consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-001450",
+    "predicted_class": 1,
+    "confidence": 0.8800782096645734,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado por config agent; features no muestran evidencia clara de misconfiguration (ACL privada, sin wildcards, MFA presente)."
+  },
+  {
+    "event_id": "EVT-001344",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Corroborado por config agent; ACL pública y sin MFA indican misconfiguration consistente."
+  },
+  {
+    "event_id": "EVT-001177",
+    "predicted_class": 2,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Corroborado por config agent; alta entropía, múltiples recursos, wildcards, nuevo rol asumido, fuera de horas y sin MFA indican movimiento lateral."
+  },
+  {
+    "event_id": "EVT-004178",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado por config agent; features sugieren movimiento lateral (alta entropía, nuevo rol, off hours) pero falta confirmación de reglas."
+  },
+  {
+    "event_id": "EVT-000490",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Corroborado por config agent; alta entropía, múltiples recursos, wildcards, nuevo rol, off hours, sin MFA y alta transferencia de datos indican movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002974",
+    "predicted_class": 1,
+    "confidence": 0.9883333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Corroborado por config agent; ACL pública y off hours indican misconfiguration, aunque baja actividad."
+  },
+  {
+    "event_id": "EVT-000876",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado por config agent; alta entropía, muchas peticiones y transferencia masiva de datos sugieren exfiltración, pero falta confirmación de reglas."
+  },
+  {
+    "event_id": "EVT-005652",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Corroborado por config agent; alta entropía, múltiples recursos, wildcards, nuevo rol, off hours y sin MFA indican movimiento lateral."
+  },
+  {
+    "event_id": "EVT-000471",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Corroborado por config agent; alta entropía, muchas peticiones, ACL pública, wildcards, alta transferencia de datos y off hours indican exfiltración."
+  },
+  {
+    "event_id": "EVT-002556",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado por config agent; alta entropía, muchas peticiones, nuevo rol y alta transferencia sugieren exfiltración, pero falta confirmación de reglas."
+  },
+  {
+    "event_id": "EVT-004683",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza en exfiltración con gran transferencia de datos y horario atípico, pero sin corroboración de reglas de configuración."
+  },
+  {
+    "event_id": "EVT-005822",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral; features muestran nuevo rol asumido y permisos wildcard, indicando escalada de privilegios."
+  },
+  {
+    "event_id": "EVT-002333",
+    "predicted_class": 1,
+    "confidence": 0.9666666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguración; presencia de permisos wildcard y horario atípico refuerzan la alerta."
+  },
+  {
+    "event_id": "EVT-004950",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral; permisos wildcard y múltiples recursos tocados sugieren exploración interna."
+  },
+  {
+    "event_id": "EVT-004949",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza en movimiento lateral con nuevo rol asumido y alta entropía IP, pero sin corroboración de reglas de configuración."
+  },
+  {
+    "event_id": "EVT-000371",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguración; ACL pública y permisos wildcard indican exposición crítica."
+  },
+  {
+    "event_id": "EVT-004894",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral; nuevo rol asumido, permisos wildcard y horario atípico indican actividad sospechosa."
+  },
+  {
+    "event_id": "EVT-002567",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral; nuevo rol asumido, permisos wildcard y horario atípico refuerzan la alerta."
+  },
+  {
+    "event_id": "EVT-000625",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguración; ACL pública, permisos wildcard y nuevo rol asumido indican configuración insegura."
+  },
+  {
+    "event_id": "EVT-002584",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración; alta transferencia de datos, alta tasa de requests y permisos wildcard sugieren fuga de datos."
+  },
+  {
+    "event_id": "EVT-004495",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.997) y corroborado por config agent. Features muestran movimiento lateral: alta entropía IP, múltiples recursos, nuevo rol asumido, horario no laboral, y permisos wildcard IAM."
+  },
+  {
+    "event_id": "EVT-004192",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML (1.0) pero no corroborado por config agent. Features sugieren movimiento lateral (nuevo rol, horario no laboral, sin MFA), pero falta evidencia de configuración."
+  },
+  {
+    "event_id": "EVT-005533",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML (1.0) pero no corroborado por config agent. Features indican movimiento lateral (nuevo rol, alta entropía IP), pero sin horario no laboral y con MFA presente."
+  },
+  {
+    "event_id": "EVT-002791",
+    "predicted_class": 1,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML (0.97) y corroborado por config agent. Features muestran misconfiguration: pocas solicitudes, un recurso, permisos wildcard IAM, horario no laboral."
+  },
+  {
+    "event_id": "EVT-004332",
+    "predicted_class": 1,
+    "confidence": 0.9786666666666668,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.979) y corroborado por config agent. Features indican misconfiguration: ACL pública, sin MFA, horario no laboral, y transferencia de datos moderada."
+  },
+  {
+    "event_id": "EVT-003980",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (1.0) y corroborado por config agent. Features críticas: ACL pública, permisos wildcard, nuevo rol asumido, sin MFA, y transferencia de datos."
+  },
+  {
+    "event_id": "EVT-001334",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (1.0) y corroborado por config agent. Features: ACL pública, permisos wildcard, sin MFA, aunque baja transferencia de datos."
+  },
+  {
+    "event_id": "EVT-005880",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.997) y corroborado por config agent. Features de exfiltración: alta entropía IP, muchas solicitudes, ACL pública, permisos wildcard, gran transferencia de datos (692 MB)."
+  },
+  {
+    "event_id": "EVT-003368",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML (1.0) pero no corroborado por config agent. Features sugieren movimiento lateral (nuevo rol, horario no laboral, sin MFA), pero falta evidencia de configuración."
+  },
+  {
+    "event_id": "EVT-000809",
+    "predicted_class": 1,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML (0.983) y corroborado por config agent. Features: permisos wildcard IAM, nuevo rol asumido, aunque baja actividad y transferencia."
+  },
+  {
+    "event_id": "EVT-004733",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features muestran ACL pública y wildcard IAM, indicando exposición crítica."
+  },
+  {
+    "event_id": "EVT-001541",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Alta entropía, múltiples recursos, transferencia de datos y horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-005591",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública y wildcard IAM, pero baja actividad y transferencia."
+  },
+  {
+    "event_id": "EVT-005376",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública, wildcard IAM y nuevo rol asumido indican posible escalada."
+  },
+  {
+    "event_id": "EVT-005172",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública y wildcard IAM, pero baja actividad. Transferencia moderada."
+  },
+  {
+    "event_id": "EVT-003981",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza, pero reglas no corroboran. Features indican alta entropía y nuevo rol, sin MFA."
+  },
+  {
+    "event_id": "EVT-002301",
+    "predicted_class": 3,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración. Alta transferencia de datos, wildcard IAM, nuevo rol y sin MFA."
+  },
+  {
+    "event_id": "EVT-000220",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral, pero reglas no corroboran. Features muestran múltiples recursos y nuevo rol, sin MFA."
+  },
+  {
+    "event_id": "EVT-005991",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública, nuevo rol asumido, pero sin wildcard IAM."
+  },
+  {
+    "event_id": "EVT-004963",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública y wildcard IAM, pero baja actividad y sin MFA."
+  },
+  {
+    "event_id": "EVT-002390",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, wildcard IAM, nuevo rol, fuera de horas. Alta confianza."
+  },
+  {
+    "event_id": "EVT-000879",
+    "predicted_class": 3,
+    "confidence": 0.9666666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza pero no corroborado por reglas. Features: alta entropía, muchas peticiones, gran transferencia de datos, sin MFA. Consenso 1 por falta de corroboración."
+  },
+  {
+    "event_id": "EVT-001108",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, wildcard IAM, fuera de horas. Alta confianza."
+  },
+  {
+    "event_id": "EVT-002173",
+    "predicted_class": 1,
+    "confidence": 0.9997777777777778,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, wildcard IAM, fuera de horas, sin MFA. Alta confianza."
+  },
+  {
+    "event_id": "EVT-000602",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza pero no corroborado por reglas. Features: alta entropía, muchas peticiones, gran transferencia, nuevo rol, sin MFA. Consenso 1."
+  },
+  {
+    "event_id": "EVT-001072",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Features: alta entropía, muchas peticiones, múltiples recursos, wildcard IAM. Alta confianza."
+  },
+  {
+    "event_id": "EVT-001092",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Features: alta entropía, muchas peticiones, wildcard IAM, nuevo rol, fuera de horas, sin MFA. Alta confianza."
+  },
+  {
+    "event_id": "EVT-000624",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, wildcard IAM, fuera de horas. Alta confianza."
+  },
+  {
+    "event_id": "EVT-000295",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza pero no corroborado por reglas. Features: alta entropía, muchas peticiones, múltiples recursos, nuevo rol. Consenso 1."
+  },
+  {
+    "event_id": "EVT-003316",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, wildcard IAM, fuera de horas, sin MFA. Alta confianza."
+  },
+  {
+    "event_id": "EVT-004655",
+    "predicted_class": 3,
+    "confidence": 0.9733333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, alta entropía IP, alto volumen de datos transferidos (564 MB), y actividad fuera de horario sin MFA, indicando posible exfiltración."
+  },
+  {
+    "event_id": "EVT-001892",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y agente de configuración coinciden en misconfiguration; ACL pública, permisos wildcard IAM y nuevo rol asumido, todo en horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-005515",
+    "predicted_class": 2,
+    "confidence": 0.9433333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza, pero no hay corroboración del agente de configuración; aunque hay nuevo rol asumido y alta tasa de requests, la presencia de MFA reduce riesgo."
+  },
+  {
+    "event_id": "EVT-005842",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza, pero sin corroboración de configuración; no hay nuevo rol asumido, actividad en horario laboral y MFA presente, lo que mitiga el riesgo."
+  },
+  {
+    "event_id": "EVT-003374",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y agente de configuración coinciden en misconfiguration; ACL pública y permisos wildcard IAM, aunque con baja actividad y MFA presente, la configuración insegura es crítica."
+  },
+  {
+    "event_id": "EVT-005554",
+    "predicted_class": 1,
+    "confidence": 0.8334463276836158,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza moderada, pero sin corroboración del agente; las features no muestran ACL pública ni wildcard, y MFA está presente, indicando baja probabilidad."
+  },
+  {
+    "event_id": "EVT-005673",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, alta entropía IP, múltiples recursos tocados, nuevo rol asumido y sin MFA, indicando posible compromiso."
+  },
+  {
+    "event_id": "EVT-003836",
+    "predicted_class": 1,
+    "confidence": 0.9534116809116809,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y agente de configuración coinciden en misconfiguration; ACL pública, aunque sin wildcard, la exposición es crítica y sin MFA."
+  },
+  {
+    "event_id": "EVT-002936",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, alta entropía IP, múltiples recursos, nuevo rol asumido y transferencia de datos significativa (23 MB), indicando movimiento lateral activo."
+  },
+  {
+    "event_id": "EVT-004429",
+    "predicted_class": 1,
+    "confidence": 0.9267536231884058,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza alta, pero sin corroboración del agente; las features no muestran ACL pública ni wildcard, y MFA está presente, reduciendo el riesgo."
+  },
+  {
+    "event_id": "EVT-002303",
+    "predicted_class": 3,
+    "confidence": 0.9666666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent, con alta entropía IP, alto tráfico de datos, ACL pública y permisos wildcard, en horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-004577",
+    "predicted_class": 2,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, corroborado por config agent, con permisos wildcard, horario no laboral sin MFA, y múltiples recursos tocados."
+  },
+  {
+    "event_id": "EVT-002221",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima en exfiltración, corroborado por config agent, con alta entropía IP, alto tráfico de datos, ACL pública, horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-005033",
+    "predicted_class": 1,
+    "confidence": 0.9867301711011525,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública, pero baja actividad y MFA presente, sugiere error de configuración más que ataque activo."
+  },
+  {
+    "event_id": "EVT-005711",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent, con alta entropía IP, alto tráfico de datos, permisos wildcard, nuevo rol asumido, horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-000595",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima en movimiento lateral, corroborado por config agent, con alta entropía IP, permisos wildcard, nuevo rol asumido, horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-004078",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Confianza ML máxima en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard, pero baja actividad y MFA presente, sugiere error de configuración."
+  },
+  {
+    "event_id": "EVT-001914",
+    "predicted_class": 1,
+    "confidence": 0.916898987238482,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Confianza ML alta en misconfiguration pero no corroborado por config agent, features no muestran anomalías claras (baja entropía, pocas peticiones, sin ACL pública ni wildcard)."
+  },
+  {
+    "event_id": "EVT-002677",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima en movimiento lateral, corroborado por config agent, con alta entropía IP, múltiples recursos, permisos wildcard, nuevo rol asumido, horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-005783",
+    "predicted_class": 1,
+    "confidence": 0.8600350877192983,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Confianza ML moderada en misconfiguration, no corroborado por config agent, features no muestran anomalías (baja entropía, pocas peticiones, sin ACL pública ni wildcard)."
+  },
+  {
+    "event_id": "EVT-001966",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, IAM wildcard, baja actividad, fuera de horas. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-000892",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración. Features: alta entropía, muchas peticiones, gran transferencia de datos, nuevo rol, sin MFA. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-004839",
+    "predicted_class": 1,
+    "confidence": 0.9986666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, IAM wildcard, baja actividad, fuera de horas. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-003501",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML predice movimiento lateral pero reglas no corroboran. Features no muestran evidencia clara de movimiento lateral (sin wildcard, sin nuevo rol)."
+  },
+  {
+    "event_id": "EVT-000304",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Features: alta entropía, múltiples recursos, IAM wildcard, nuevo rol, transferencia moderada. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-003897",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Features: alta entropía, múltiples recursos, IAM wildcard, sin MFA. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-000900",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML predice exfiltración con alta confianza pero reglas no corroboran. Features: alta entropía, muchas peticiones, gran transferencia, pero sin wildcard ni nuevo rol. No hay evidencia consistente de exfiltración."
+  },
+  {
+    "event_id": "EVT-003145",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. Features: ACL pública, baja actividad, sin wildcard. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-004401",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en exfiltración. Features: alta entropía, muchas peticiones, gran transferencia, ACL pública, nuevo rol. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-000302",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Features: alta entropía, múltiples recursos, IAM wildcard, nuevo rol, sin MFA. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-004022",
+    "predicted_class": 2,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.983) y corroborado por config agent. Features: alta entropía IP, múltiples recursos, nuevo rol asumido, horario no laboral, sin MFA, permisos wildcard IAM. Consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002049",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.993) y corroborado por config agent. Features: ACL pública, baja entropía IP, pocas peticiones, MFA presente. Consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-003663",
+    "predicted_class": 1,
+    "confidence": 0.99125,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML (0.991) y corroborado por config agent. Features: ACL pública, nuevo rol asumido, sin MFA, baja transferencia de datos. Consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-000385",
+    "predicted_class": 3,
+    "confidence": 0.7133333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML moderada (0.713) pero corroborado por config agent. Features: alta entropía IP, muchas peticiones, múltiples recursos, alta transferencia de datos (56.7 MB), horario no laboral, sin MFA, permisos wildcard. Consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-001569",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima (1.0) y corroborado por config agent. Features: ACL pública, permisos wildcard, nuevo rol asumido, horario no laboral, sin MFA. Consistente con misconfiguration."
+  },
+  {
+    "event_id": "EVT-000332",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima (1.0) y corroborado por config agent. Features: alta entropía IP, muchas peticiones, múltiples recursos, alta transferencia de datos (25.5 MB), nuevo rol asumido, permisos wildcard, sin MFA. Consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-005839",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.993) pero no corroborado por config agent. Features: alta entropía IP, muchas peticiones, transferencia de datos extremadamente alta (328.2 MB), horario no laboral, sin MFA. Aunque consistente con exfiltración, falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-005114",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima (1.0) y corroborado por config agent. Features: alta entropía IP, múltiples recursos, nuevo rol asumido, horario no laboral, permisos wildcard, sin MFA. Consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-005435",
+    "predicted_class": 3,
+    "confidence": 0.9766666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML (0.977) y corroborado por config agent. Features: alta entropía IP, muchas peticiones, transferencia de datos extremadamente alta (1045.2 MB), permisos wildcard, sin MFA. Consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-005301",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima (1.0) pero no corroborado por config agent. Features: alta entropía IP, muchas peticiones, múltiples recursos, alta transferencia de datos (34.1 MB), nuevo rol asumido, sin MFA. Consistente con movimiento lateral, pero falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-000758",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y reglas confirman misconfig. Features: ACL pública, IAM wildcard, nuevo rol asumido, alta entropía de IP."
+  },
+  {
+    "event_id": "EVT-000980",
+    "predicted_class": 1,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 0.987 y reglas confirman misconfig. Features: IAM wildcard, fuera de horario, sin MFA, transferencia de datos moderada."
+  },
+  {
+    "event_id": "EVT-001000",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 0.997 y reglas confirman misconfig. Features: ACL pública, nuevo rol asumido, sin MFA, alta transferencia de datos."
+  },
+  {
+    "event_id": "EVT-005525",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y reglas confirman misconfig. Features: ACL pública, IAM wildcard, alta transferencia de datos."
+  },
+  {
+    "event_id": "EVT-001131",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y reglas confirman movimiento lateral. Features: alta entropía IP, muchas peticiones y recursos, IAM wildcard, fuera de horario, sin MFA."
+  },
+  {
+    "event_id": "EVT-004800",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 0.997 y reglas confirman movimiento lateral. Features: alta entropía IP, muchas peticiones, IAM wildcard, nuevo rol asumido, sin MFA."
+  },
+  {
+    "event_id": "EVT-004357",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML con confianza 1.0 pero reglas no corroboran. Features: alta entropía IP, muchas peticiones y recursos, nuevo rol, fuera de horario, pero sin IAM wildcard y con MFA."
+  },
+  {
+    "event_id": "EVT-000718",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y reglas confirman movimiento lateral. Features: alta entropía IP, muchas peticiones y recursos, IAM wildcard, nuevo rol, fuera de horario, sin MFA, alta transferencia."
+  },
+  {
+    "event_id": "EVT-002935",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML con confianza 0.993 pero reglas no corroboran. Features: alta entropía IP, muchas peticiones y recursos, nuevo rol, fuera de horario, sin MFA, pero sin IAM wildcard."
+  },
+  {
+    "event_id": "EVT-004065",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML con confianza 1.0 pero reglas no corroboran. Features: alta entropía IP, muchas peticiones y recursos, nuevo rol, fuera de horario, sin MFA, pero sin IAM wildcard."
+  },
+  {
+    "event_id": "EVT-000653",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza, config agent corrobora, y features muestran alta entropía de IP, múltiples recursos tocados, permisos wildcard IAM y nuevo rol asumido, indicando actividad sospechosa consistente."
+  },
+  {
+    "event_id": "EVT-002296",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration, config agent corrobora, y features muestran ACL pública y permisos wildcard IAM, aunque MFA presente reduce riesgo. Consistente con mala configuración."
+  },
+  {
+    "event_id": "EVT-004898",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration, config agent corrobora, y features muestran ACL pública y permisos wildcard IAM, con transferencia de datos moderada. Consistente con exposición."
+  },
+  {
+    "event_id": "EVT-004563",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration, config agent corrobora, y features muestran ACL pública y permisos wildcard IAM, aunque MFA presente. Consistente con mala configuración."
+  },
+  {
+    "event_id": "EVT-000203",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration, config agent corrobora, y features muestran ACL pública y nuevo rol asumido, aunque sin wildcard. Consistente con cambio de configuración."
+  },
+  {
+    "event_id": "EVT-003014",
+    "predicted_class": 3,
+    "confidence": 0.9923809523809524,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, pero config agent no corrobora. Features muestran alta transferencia de datos y off-hours, pero falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-001192",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral, config agent corrobora, y features muestran alta entropía, múltiples recursos, permisos wildcard, nuevo rol y off-hours. Consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-001769",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, pero config agent no corrobora. Features muestran alta entropía, alta transferencia y off-hours, pero sin corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-001088",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, pero config agent no corrobora. Features muestran alta entropía, alta transferencia y nuevo rol, pero sin corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-003189",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, pero config agent no corrobora. Features muestran alta entropía, alta transferencia y nuevo rol, pero sin corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-005311",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con alta confianza y config agent lo corrobora, pero las features (baja entropía, pocas peticiones, ACL pública) indican una configuración insegura sin evidencia de explotación activa."
+  },
+  {
+    "event_id": "EVT-002708",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en exfiltración. Alta entropía, muchas peticiones, ACL pública, gran transferencia de datos, fuera de horario y sin MFA: evidencia consistente de exfiltración."
+  },
+  {
+    "event_id": "EVT-003144",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en exfiltración. Alta entropía, muchas peticiones, permisos wildcard, nuevo rol asumido, gran transferencia de datos y sin MFA: evidencia sólida de exfiltración."
+  },
+  {
+    "event_id": "EVT-005894",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en movimiento lateral. Alta entropía, múltiples recursos, permisos wildcard, nuevo rol asumido y sin MFA: evidencia de movimiento lateral."
+  },
+  {
+    "event_id": "EVT-001179",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza pero config agent no corrobora. Aunque hay alta entropía, muchas peticiones y nuevo rol, la falta de corroboración reduce la certeza."
+  },
+  {
+    "event_id": "EVT-005194",
+    "predicted_class": 3,
+    "confidence": 0.96,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en exfiltración. Alta entropía, muchas peticiones, ACL pública, permisos wildcard, gran transferencia de datos, fuera de horario y sin MFA: evidencia consistente."
+  },
+  {
+    "event_id": "EVT-004382",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Baja entropía, pocas peticiones, ACL pública y permisos wildcard indican configuración insegura pero sin actividad sospechosa adicional."
+  },
+  {
+    "event_id": "EVT-002522",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Baja entropía, pocas peticiones, ACL pública, permisos wildcard y nuevo rol asumido, pero sin alta transferencia de datos ni actividad fuera de horario."
+  },
+  {
+    "event_id": "EVT-005145",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Entropía muy baja, sin peticiones, ACL pública y permisos wildcard, pero sin actividad reciente ni transferencia de datos significativa."
+  },
+  {
+    "event_id": "EVT-005276",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en movimiento lateral. Alta entropía, múltiples recursos, permisos wildcard, nuevo rol asumido, fuera de horario y sin MFA: evidencia consistente de movimiento lateral."
+  },
+  {
+    "event_id": "EVT-001603",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML con alta confianza y agente de configuracion corroboran. Features: permisos wildcard IAM, nuevo rol asumido, transferencia de datos moderada, pero sin horario atipico ni ACL publica. Consistente con misconfiguracion."
+  },
+  {
+    "event_id": "EVT-002212",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: ACL publica, permisos wildcard, nuevo rol, horario atipico, sin MFA. Alta severidad por exposicion."
+  },
+  {
+    "event_id": "EVT-004795",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: alta entropia IP, muchas peticiones, multiples recursos, transferencia alta, nuevo rol, horario atipico, sin MFA. Indica movimiento lateral."
+  },
+  {
+    "event_id": "EVT-005899",
+    "predicted_class": 1,
+    "confidence": 0.9997777777777778,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y configuracion corroboran. Features: ACL publica, permisos wildcard, horario atipico, sin MFA. Misconfiguracion critica."
+  },
+  {
+    "event_id": "EVT-002613",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: alta entropia, muchas peticiones, multiples recursos, transferencia alta, nuevo rol, horario atipico. Movimiento lateral claro."
+  },
+  {
+    "event_id": "EVT-005831",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML predice movimiento lateral con alta confianza pero agente de configuracion no corrobora. Features: alta entropia, peticiones moderadas, nuevo rol, horario atipico, pero sin permisos wildcard. Senial mixta."
+  },
+  {
+    "event_id": "EVT-002667",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: ACL publica, nuevo rol, sin MFA, pero baja transferencia y sin horario atipico. Misconfiguracion moderada."
+  },
+  {
+    "event_id": "EVT-005718",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: alta entropia, muchas peticiones, multiples recursos, permisos wildcard, nuevo rol, horario atipico. Movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002235",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: alta entropia, muchas peticiones, multiples recursos, permisos wildcard, nuevo rol, horario atipico, sin MFA. Movimiento lateral."
+  },
+  {
+    "event_id": "EVT-003266",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y configuracion coinciden. Features: ACL publica, permisos wildcard, transferencia moderada, pero sin nuevo rol ni horario atipico. Misconfiguracion."
+  },
+  {
+    "event_id": "EVT-005834",
+    "predicted_class": 2,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, corroborado por config agent, con features como alta entropía IP, múltiples recursos tocados, nuevo rol asumido y sin MFA."
+  },
+  {
+    "event_id": "EVT-001984",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard IAM."
+  },
+  {
+    "event_id": "EVT-005319",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard IAM, aunque MFA presente reduce riesgo."
+  },
+  {
+    "event_id": "EVT-002283",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con permisos wildcard IAM y nuevo rol asumido en horario no laboral, pero MFA presente."
+  },
+  {
+    "event_id": "EVT-001994",
+    "predicted_class": 3,
+    "confidence": 0.9733333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, pero no corroborado por config agent. Features indican alta transferencia de datos y nuevo rol asumido, pero falta señal de configuración."
+  },
+  {
+    "event_id": "EVT-003053",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, pero no corroborado por config agent. Features muestran alta transferencia de datos y nuevo rol asumido, pero sin MFA."
+  },
+  {
+    "event_id": "EVT-001383",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, corroborado por config agent, con alta entropía IP, múltiples recursos, nuevo rol asumido y sin MFA."
+  },
+  {
+    "event_id": "EVT-002311",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, pero no corroborado por config agent. Features muestran alta entropía IP y múltiples recursos, pero sin nuevo rol ni permisos wildcard."
+  },
+  {
+    "event_id": "EVT-002532",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y nuevo rol asumido en horario no laboral."
+  },
+  {
+    "event_id": "EVT-000004",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard IAM."
+  },
+  {
+    "event_id": "EVT-001616",
+    "predicted_class": 1,
+    "confidence": 0.9901166666666665,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. IAM wildcard presente, pero baja actividad y MFA activo reducen riesgo."
+  },
+  {
+    "event_id": "EVT-001296",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Misconfiguration confirmada por ambas fuentes. ACL pública, IAM wildcard, nuevo rol asumido en horario no laboral sin MFA."
+  },
+  {
+    "event_id": "EVT-003590",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Misconfiguration con ACL pública, IAM wildcard, nuevo rol, horario no laboral y sin MFA. Transferencia de datos elevada."
+  },
+  {
+    "event_id": "EVT-001095",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza, pero reglas no corroboran. Alta entropía, múltiples recursos, nuevo rol y horario no laboral."
+  },
+  {
+    "event_id": "EVT-001530",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Misconfiguration con ACL pública e IAM wildcard, pero MFA activo y sin nuevo rol ni horario no laboral."
+  },
+  {
+    "event_id": "EVT-004612",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Misconfiguration con ACL pública, IAM wildcard, nuevo rol asumido y sin MFA."
+  },
+  {
+    "event_id": "EVT-000321",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y reglas coinciden en movimiento lateral. Alta entropía, múltiples recursos, IAM wildcard, nuevo rol y sin MFA."
+  },
+  {
+    "event_id": "EVT-005843",
+    "predicted_class": 1,
+    "confidence": 0.9771230158730156,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Misconfiguration con ACL pública, pero sin IAM wildcard ni nuevo rol. Baja actividad."
+  },
+  {
+    "event_id": "EVT-003138",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Exfiltración confirmada por ambas fuentes. Alta entropía, muchas peticiones, IAM wildcard y transferencia masiva de datos."
+  },
+  {
+    "event_id": "EVT-005104",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Misconfiguration con ACL pública e IAM wildcard, pero MFA activo y baja actividad."
+  },
+  {
+    "event_id": "EVT-003731",
+    "predicted_class": 3,
+    "confidence": 0.8566666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, pero no corroborado por config agent. Features: alta transferencia de datos (348 MB), nuevo rol asumido, fuera de horario, sin MFA. Consenso 1 por falta de corroboración."
+  },
+  {
+    "event_id": "EVT-005101",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0, corroborado por config agent. Features: alta entropía IP, permisos wildcard IAM, alta transferencia (543 MB), nuevo rol asumido, sin MFA. Evidencia consistente."
+  },
+  {
+    "event_id": "EVT-004098",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 1.0, corroborado por config agent. Features: permisos wildcard IAM, nuevo rol asumido, múltiples recursos tocados (11). Movimiento lateral típico."
+  },
+  {
+    "event_id": "EVT-003583",
+    "predicted_class": 1,
+    "confidence": 0.9733333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, pero no corroborado. Features: baja actividad, sin indicadores de riesgo adicionales. Consenso 1."
+  },
+  {
+    "event_id": "EVT-005547",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 0.993, corroborado por config agent. Features: ACL pública, permisos wildcard IAM. Misconfiguration confirmada."
+  },
+  {
+    "event_id": "EVT-002887",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0 en movimiento lateral, pero no corroborado. Features: alta entropía IP, múltiples recursos (14), nuevo rol asumido, fuera de horario, sin MFA. Consenso 1 por falta de corroboración."
+  },
+  {
+    "event_id": "EVT-003494",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0 en movimiento lateral, no corroborado. Features: nuevo rol asumido, fuera de horario, sin MFA. Consenso 1."
+  },
+  {
+    "event_id": "EVT-001571",
+    "predicted_class": 1,
+    "confidence": 0.98875,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 0.989, corroborado por config agent. Features: permisos wildcard IAM, nuevo rol asumido, transferencia de datos moderada (17 MB). Misconfiguration."
+  },
+  {
+    "event_id": "EVT-002050",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0 en exfiltración, no corroborado. Features: alta entropía IP, alta tasa de requests (34/min), alta transferencia (227 MB), nuevo rol asumido, sin MFA. Consenso 1."
+  },
+  {
+    "event_id": "EVT-000046",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0 en movimiento lateral, no corroborado. Features: alta entropía IP, múltiples recursos (10), nuevo rol asumido, fuera de horario, sin MFA. Consenso 1."
+  },
+  {
+    "event_id": "EVT-004388",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML con confianza 1.0 y config agent corroboran movimiento lateral. Features: alta entropía IP, múltiples recursos, nuevo rol asumido, horario no laboral, sin MFA, permisos wildcard y transferencia de datos significativa."
+  },
+  {
+    "event_id": "EVT-002691",
+    "predicted_class": 1,
+    "confidence": 0.9445908085456404,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Features: permisos wildcard IAM, sin MFA, aunque baja actividad y entropía IP moderada."
+  },
+  {
+    "event_id": "EVT-002243",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML predice movimiento lateral con alta confianza pero config agent no corrobora. Features: alta entropía IP, nuevo rol, horario no laboral, pero sin permisos wildcard y baja transferencia de datos."
+  },
+  {
+    "event_id": "EVT-002533",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent confirman misconfiguration. Features: ACL pública, permisos wildcard, nuevo rol, horario no laboral, sin MFA y transferencia de datos moderada."
+  },
+  {
+    "event_id": "EVT-002703",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent corroboran movimiento lateral. Features: alta entropía IP, múltiples recursos, permisos wildcard, nuevo rol, horario no laboral, sin MFA y alta transferencia de datos."
+  },
+  {
+    "event_id": "EVT-005137",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent confirman misconfiguration. Features: ACL pública, permisos wildcard, nuevo rol, sin MFA y transferencia de datos significativa."
+  },
+  {
+    "event_id": "EVT-002678",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent corroboran movimiento lateral. Features: alta entropía IP, alta tasa de requests, múltiples recursos, permisos wildcard, nuevo rol, horario no laboral, sin MFA."
+  },
+  {
+    "event_id": "EVT-002629",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent confirman misconfiguration. Features: ACL pública, nuevo rol, horario no laboral, pero con MFA presente y sin permisos wildcard."
+  },
+  {
+    "event_id": "EVT-003221",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent corroboran movimiento lateral. Features: alta entropía IP, múltiples recursos, permisos wildcard, horario no laboral, sin MFA, aunque no hay nuevo rol."
+  },
+  {
+    "event_id": "EVT-005255",
+    "predicted_class": 2,
+    "confidence": 0.8933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML predice movimiento lateral con confianza 0.893 pero config agent no corrobora. Features: alta entropía IP, alta tasa de requests, nuevo rol, horario no laboral, MFA presente, sin permisos wildcard."
+  },
+  {
+    "event_id": "EVT-003094",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y reglas coinciden en misconfiguration. ACL pública y nuevo rol asumido indican exposición."
+  },
+  {
+    "event_id": "EVT-003943",
+    "predicted_class": 3,
+    "confidence": 0.9533333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Exfiltración confirmada: alta transferencia de datos, permisos wildcard, sin MFA, en horario no laboral."
+  },
+  {
+    "event_id": "EVT-004443",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral pero reglas no corroboran. Alta entropía y múltiples recursos, pero sin wildcard ni ACL pública."
+  },
+  {
+    "event_id": "EVT-004272",
+    "predicted_class": 1,
+    "confidence": 0.9839777290982109,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Misconfiguration con ACL pública y MFA presente. Baja actividad, pero exposición confirmada."
+  },
+  {
+    "event_id": "EVT-004049",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Movimiento lateral no corroborado por reglas. Alta entropía y múltiples recursos, pero sin wildcard ni ACL pública."
+  },
+  {
+    "event_id": "EVT-001731",
+    "predicted_class": 2,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Movimiento lateral confirmado: permisos wildcard, nuevo rol, múltiples recursos, sin MFA."
+  },
+  {
+    "event_id": "EVT-002238",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Misconfiguration con wildcard y nuevo rol. Baja actividad pero riesgo de escalada."
+  },
+  {
+    "event_id": "EVT-004264",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Misconfiguration con ACL pública, wildcard, sin MFA y en horario no laboral. Exposición crítica."
+  },
+  {
+    "event_id": "EVT-001681",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Exfiltración masiva: alta transferencia, wildcard, nuevo rol, sin MFA, horario no laboral."
+  },
+  {
+    "event_id": "EVT-005023",
+    "predicted_class": 3,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Exfiltración con ACL pública y alta transferencia de datos. Sin MFA."
+  },
+  {
+    "event_id": "EVT-001488",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza, pero config agent no corrobora. Features muestran nuevo rol asumido y múltiples recursos, pero sin evidencia adicional de configuración insegura."
+  },
+  {
+    "event_id": "EVT-001606",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en exfiltración. Features: alta entropía IP, muchas peticiones, ACL pública, permisos wildcard, gran transferencia de datos, fuera de horario y sin MFA."
+  },
+  {
+    "event_id": "EVT-005793",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral, pero config agent no corrobora. Features: nuevo rol asumido y fuera de horario, pero sin otras señales de configuración insegura."
+  },
+  {
+    "event_id": "EVT-001421",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en exfiltración. Features: alta entropía IP, muchas peticiones, permisos wildcard, transferencia masiva de datos, fuera de horario, aunque MFA presente."
+  },
+  {
+    "event_id": "EVT-002847",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Features: ACL pública, nuevo rol asumido, baja actividad, pero con MFA presente. Configuración insegura confirmada."
+  },
+  {
+    "event_id": "EVT-004309",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza, pero config agent no corrobora. Features: alta entropía IP, muchas peticiones, transferencia de datos significativa, nuevo rol y fuera de horario, pero sin evidencia de configuración insegura."
+  },
+  {
+    "event_id": "EVT-004056",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML y config agent coinciden en exfiltración. Features: ACL pública, permisos wildcard, muchas peticiones, gran transferencia de datos, nuevo rol asumido y sin MFA."
+  },
+  {
+    "event_id": "EVT-001902",
+    "predicted_class": 2,
+    "confidence": 0.96,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 0.96, config agent no corrobora. Features: nuevo rol asumido y fuera de horario, pero baja entropía IP, pocos recursos y MFA presente."
+  },
+  {
+    "event_id": "EVT-005998",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Features: ACL pública, nuevo rol asumido, baja actividad, MFA presente. Configuración insegura confirmada."
+  },
+  {
+    "event_id": "EVT-005348",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML y config agent coinciden en misconfiguration. Features: ACL pública, permisos wildcard, baja actividad, sin MFA. Configuración insegura confirmada."
+  },
+  {
+    "event_id": "EVT-003068",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con alta confianza y config agent corrobora. Features muestran ACL pública y permisos wildcard, consistente con la alerta."
+  },
+  {
+    "event_id": "EVT-003414",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con confianza 1.0 y config agent corrobora. Features: alta transferencia de datos (207 MB), múltiples recursos, nuevo rol asumido y horario no laboral, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-002431",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza pero config agent no corrobora. Features: alta entropía, múltiples recursos, nuevo rol asumido y horario no laboral, pero sin evidencia de configuraciones inseguras."
+  },
+  {
+    "event_id": "EVT-000501",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con confianza 1.0 pero config agent no corrobora. Features: alta transferencia (427 MB), múltiples recursos, horario no laboral y sin MFA, consistente con exfiltración, pero falta corroboración de config."
+  },
+  {
+    "event_id": "EVT-003334",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza pero config agent no corrobora. Features: alta entropía, múltiples recursos, nuevo rol asumido, pero sin evidencia de configuraciones inseguras."
+  },
+  {
+    "event_id": "EVT-005254",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0 pero config agent no corrobora. Features: alta entropía, múltiples recursos, nuevo rol asumido y horario no laboral, pero sin evidencia de configuraciones inseguras."
+  },
+  {
+    "event_id": "EVT-004710",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública y permisos wildcard, pero baja actividad (2 req/min) y baja transferencia, consistente con misconfiguration de baja severidad."
+  },
+  {
+    "event_id": "EVT-003234",
+    "predicted_class": 2,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con alta confianza y config agent corrobora. Features: múltiples recursos, nuevo rol asumido y permisos wildcard, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-003398",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML detecta misconfiguration con alta confianza y config agent corrobora. Features: ACL pública, baja actividad (3 req/min) y baja transferencia, consistente con misconfiguration de baja severidad."
+  },
+  {
+    "event_id": "EVT-005621",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0 y config agent corrobora. Features: múltiples recursos, nuevo rol asumido, permisos wildcard y horario no laboral, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002659",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0, config agent confirma, features: alta entropía IP, múltiples recursos, nuevo rol, horario no laboral, sin MFA, permisos wildcard, transferencia de datos significativa."
+  },
+  {
+    "event_id": "EVT-000399",
+    "predicted_class": 2,
+    "confidence": 0.91,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 0.91, config agent confirma, features: alta entropía IP, múltiples recursos, nuevo rol, horario no laboral, permisos wildcard, aunque MFA presente."
+  },
+  {
+    "event_id": "EVT-000830",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 1.0, config agent confirma, features: ACL pública, permisos wildcard, nuevo rol, horario no laboral, sin MFA, baja entropía IP y pocas solicitudes."
+  },
+  {
+    "event_id": "EVT-004297",
+    "predicted_class": 1,
+    "confidence": 0.9451728191276509,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "ML confianza 0.945, config agent confirma, features: permisos wildcard, baja entropía IP, pocas solicitudes, sin nuevo rol, horario laboral, sin MFA, transferencia mínima."
+  },
+  {
+    "event_id": "EVT-005732",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML confianza 1.0, config agent confirma, features: alta entropía IP, muchas solicitudes, ACL pública, permisos wildcard, transferencia masiva de datos, horario no laboral, sin MFA."
+  },
+  {
+    "event_id": "EVT-004996",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 1.0 pero config agent no corrobora. Features: alta entropía IP, muchas solicitudes, transferencia significativa, horario no laboral, MFA presente, sin permisos wildcard."
+  },
+  {
+    "event_id": "EVT-001550",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 1.0, config agent confirma, features: ACL pública, permisos wildcard, baja entropía IP, pocas solicitudes, sin nuevo rol, horario laboral, sin MFA."
+  },
+  {
+    "event_id": "EVT-002031",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 1.0, config agent confirma, features: ACL pública, permisos wildcard, nuevo rol, MFA presente, baja entropía IP, pocas solicitudes, horario laboral."
+  },
+  {
+    "event_id": "EVT-003592",
+    "predicted_class": 1,
+    "confidence": 0.9512121212121213,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 0.951, config agent confirma, features: ACL pública, baja entropía IP, pocas solicitudes, sin nuevo rol, horario laboral, sin MFA, transferencia moderada."
+  },
+  {
+    "event_id": "EVT-002357",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML confianza 1.0, config agent confirma, features: ACL pública, permisos wildcard, horario no laboral, sin MFA, entropía IP media, pocas solicitudes, transferencia moderada."
+  },
+  {
+    "event_id": "EVT-004327",
+    "predicted_class": 1,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con alta confianza y config agent lo corrobora. Features muestran IAM wildcard permissions activas, baja actividad y datos transferidos mínimos, consistente con una mala configuración persistente."
+  },
+  {
+    "event_id": "EVT-002228",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con confianza 1.0, pero config agent no corrobora. Features indican alta entropía, muchas requests, gran transferencia de datos, nuevo rol y horario no laboral sin MFA, sugiriendo exfiltración real, pero falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-000560",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0 y config agent corrobora. Features muestran alta entropía, múltiples recursos tocados, IAM wildcard, nuevo rol asumido y horario no laboral, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-004335",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta exfiltración con alta confianza y config agent corrobora. Features: alta entropía, muchas requests, datos transferidos significativos, IAM wildcard, nuevo rol y sin MFA, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-003878",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública, IAM wildcard inactivo, baja actividad, nuevo rol asumido, consistente con una mala configuración de acceso."
+  },
+  {
+    "event_id": "EVT-004180",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública, IAM wildcard activo, sin requests, nuevo rol asumido, consistente con una configuración insegura."
+  },
+  {
+    "event_id": "EVT-002982",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con confianza 1.0 y config agent corrobora. Features: ACL pública, IAM wildcard activo, baja actividad, datos transferidos moderados, horario no laboral, consistente con mala configuración."
+  },
+  {
+    "event_id": "EVT-003434",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "ML detecta misconfiguration con alta confianza y config agent corrobora. Features: IAM wildcard activo, nuevo rol asumido, horario no laboral, baja actividad, consistente con una mala configuración."
+  },
+  {
+    "event_id": "EVT-001089",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0 y config agent corrobora. Features: alta entropía, múltiples recursos, IAM wildcard, nuevo rol, horario no laboral y sin MFA, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-003874",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "ML detecta movimiento lateral con confianza 1.0, pero config agent no corrobora. Features: alta entropía, muchas requests, múltiples recursos, nuevo rol, datos transferidos significativos, sugiriendo movimiento lateral, pero falta corroboración de reglas."
+  },
+  {
+    "event_id": "EVT-002874",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent. Features: alta entropía IP, muchas peticiones, alto volumen de datos, permisos wildcard, sin MFA, en horario no laboral."
+  },
+  {
+    "event_id": "EVT-002939",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent. Features: ACL pública, permisos wildcard, pero baja actividad y MFA presente."
+  },
+  {
+    "event_id": "EVT-001666",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en movimiento lateral, corroborado por config agent. Features: alta entropía IP, nuevo rol asumido, permisos wildcard, sin MFA."
+  },
+  {
+    "event_id": "EVT-000815",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent. Features: alta entropía IP, muchas peticiones, volumen de datos muy alto, permisos wildcard, sin MFA, horario no laboral."
+  },
+  {
+    "event_id": "EVT-004050",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, pero features no muestran actividad anómala: baja entropía, pocas peticiones, volumen mínimo, MFA presente."
+  },
+  {
+    "event_id": "EVT-001617",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent. Features: ACL pública, permisos wildcard, aunque baja actividad y MFA presente."
+  },
+  {
+    "event_id": "EVT-005696",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent. Features: alta entropía IP, muchas peticiones, volumen de datos alto, ACL pública, permisos wildcard, sin MFA, horario no laboral."
+  },
+  {
+    "event_id": "EVT-000102",
+    "predicted_class": 1,
+    "confidence": 0.9986666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent. Features: ACL pública, permisos wildcard, horario no laboral, aunque baja actividad y sin MFA."
+  },
+  {
+    "event_id": "EVT-002441",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent. Features: alta entropía IP, muchas peticiones, volumen de datos significativo, permisos wildcard, sin MFA, horario no laboral."
+  },
+  {
+    "event_id": "EVT-001320",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent. Features: entropía IP alta, muchas peticiones, volumen de datos muy alto, ACL pública, sin MFA, horario no laboral."
+  },
+  {
+    "event_id": "EVT-004738",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML y corroborado por config agent. Features indican ACL pública y nuevo rol asumido en horario no laboral, consistente con misconfiguración."
+  },
+  {
+    "event_id": "EVT-001254",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima y corroborado. Alta transferencia de datos (527 MB), permisos wildcard IAM, nuevo rol asumido y sin MFA, consistente con exfiltración."
+  },
+  {
+    "event_id": "EVT-004891",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima y corroborado. Múltiples recursos tocados, permisos wildcard, nuevo rol asumido en horario no laboral y sin MFA, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002484",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML pero no corroborado por config agent. Aunque hay alta entropía y múltiples recursos, falta evidencia de configuraciones inseguras."
+  },
+  {
+    "event_id": "EVT-000984",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima y corroborado. Permisos wildcard, nuevo rol asumido en horario no laboral, múltiples recursos, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002308",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML y corroborado. Alta entropía, múltiples recursos, permisos wildcard, nuevo rol asumido en horario no laboral y sin MFA, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-004804",
+    "predicted_class": 2,
+    "confidence": 0.9233333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Confianza ML alta pero no corroborado. Aunque hay nuevo rol asumido y horario no laboral, falta evidencia de configuraciones inseguras."
+  },
+  {
+    "event_id": "EVT-000143",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima y corroborado. Permisos wildcard, nuevo rol asumido, múltiples recursos y sin MFA, consistente con movimiento lateral."
+  },
+  {
+    "event_id": "EVT-002038",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima pero no corroborado. Alta transferencia de datos (406 MB) y muchas peticiones, pero falta evidencia de configuraciones inseguras."
+  },
+  {
+    "event_id": "EVT-003323",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Confianza ML máxima y corroborado. Permisos wildcard IAM presentes, consistente con misconfiguración."
+  },
+  {
+    "event_id": "EVT-003765",
+    "predicted_class": 3,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent, con alta transferencia de datos (223 MB), alta entropía IP, y nuevo rol asumido."
+  },
+  {
+    "event_id": "EVT-005288",
+    "predicted_class": 1,
+    "confidence": 0.9931111111111112,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard, aunque baja transferencia de datos."
+  },
+  {
+    "event_id": "EVT-003912",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima en movimiento lateral, corroborado por config agent, con alta entropía IP, múltiples recursos tocados, nuevo rol asumido y horario no laboral."
+  },
+  {
+    "event_id": "EVT-000111",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Confianza ML máxima en movimiento lateral, corroborado por config agent, con alta entropía IP y múltiples recursos, pero sin nuevo rol y con MFA presente."
+  },
+  {
+    "event_id": "EVT-005438",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent, con muy alta transferencia de datos (252 MB), alta entropía IP, y nuevo rol asumido sin MFA."
+  },
+  {
+    "event_id": "EVT-000546",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard, pero baja actividad y MFA presente."
+  },
+  {
+    "event_id": "EVT-004751",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Confianza ML máxima en misconfiguration, corroborado por config agent, con ACL pública y permisos wildcard, aunque baja transferencia de datos."
+  },
+  {
+    "event_id": "EVT-000179",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima en exfiltración, corroborado por config agent, con muy alta transferencia de datos (706 MB), alta entropía IP, nuevo rol asumido y sin MFA."
+  },
+  {
+    "event_id": "EVT-000272",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Confianza ML máxima en exfiltración, corroborado por config agent, con muy alta transferencia de datos (774 MB), alta entropía IP y sin MFA."
+  },
+  {
+    "event_id": "EVT-003892",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Alta confianza ML en misconfiguration, corroborado por config agent, pero con baja actividad, sin ACL pública y con MFA presente."
+  },
+  {
+    "event_id": "EVT-004045",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Alta confianza ML en exfiltración, corroborado por config agent, con alta transferencia de datos (437.95 MB), permisos wildcard IAM, nuevo rol asumido, horario no laboral y sin MFA."
+  },
+  {
+    "event_id": "EVT-002492",
+    "predicted_class": 2,
+    "confidence": 0.75,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Movimiento lateral con confianza ML 0.75, corroborado por config agent, con permisos wildcard IAM y nuevo rol asumido, aunque baja transferencia de datos."
+  },
+  {
+    "event_id": "EVT-000831",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Movimiento lateral con alta confianza ML pero no corroborado por config agent. Alta entropía IP y múltiples recursos tocados, pero sin wildcard IAM ni MFA."
+  },
+  {
+    "event_id": "EVT-003411",
+    "predicted_class": 1,
+    "confidence": 0.9884999999999998,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Misconfiguration con alta confianza ML, corroborado por config agent, con ACL pública, horario no laboral y sin MFA."
+  },
+  {
+    "event_id": "EVT-002204",
+    "predicted_class": 1,
+    "confidence": 0.8577280462905177,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1,
+    "severity_llm": "BAJA",
+    "reasoning_llm": "Misconfiguration con confianza ML 0.858 pero no corroborado por config agent. Sin ACL pública ni wildcard IAM, y con MFA presente."
+  },
+  {
+    "event_id": "EVT-005216",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "MEDIA",
+    "reasoning_llm": "Misconfiguration con alta confianza ML, corroborado por config agent, con permisos wildcard IAM y nuevo rol asumido, aunque sin ACL pública."
+  },
+  {
+    "event_id": "EVT-005875",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2,
+    "severity_llm": "ALTA",
+    "reasoning_llm": "Misconfiguration con alta confianza ML, corroborado por config agent, con ACL pública y permisos wildcard IAM, aunque baja transferencia de datos."
+  }
+]

@@ -1,0 +1,4832 @@
+[
+  {
+    "event_id": "EVT-000004",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000010",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000017",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000021",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000024",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000027",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000030",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000038",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000062",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000085",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000092",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000102",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000111",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000125",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000128",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000143",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000164",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000174",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000175",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000179",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000182",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000184",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000193",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000196",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000197",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000203",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000205",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000239",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000244",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000251",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000255",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000272",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000276",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000278",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000288",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000298",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000302",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000304",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000306",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000308",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000314",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000321",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000332",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000353",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000356",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000357",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000371",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000383",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000385",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000386",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000390",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000392",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000394",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000399",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000406",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000420",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000428",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000444",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000445",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000451",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000455",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000471",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000482",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000490",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000492",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000504",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000512",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000516",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000519",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000529",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000546",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000552",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000553",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000560",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000563",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000566",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000573",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000595",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000596",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000608",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000624",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000625",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000636",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000644",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000653",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000655",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000657",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000662",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000674",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000692",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000708",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000710",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000718",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000751",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000758",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000771",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000773",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000778",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000792",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000795",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000809",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000811",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000812",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000814",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000815",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000820",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000830",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000877",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000889",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000892",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000897",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000906",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000913",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000915",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000917",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000920",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000922",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000933",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000942",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000950",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000956",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000962",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-000980",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000984",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000990",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-000999",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001000",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001002",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001010",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001022",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001032",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001041",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001057",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001070",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001072",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001075",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001083",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001086",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001089",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001092",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001101",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001103",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001108",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001122",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001125",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001131",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001148",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001163",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001165",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001167",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001172",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001177",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001178",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001188",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001190",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001191",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001192",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001194",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001198",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001206",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001209",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001213",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001218",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001237",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001254",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001264",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001277",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001282",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001283",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001289",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001293",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001296",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001298",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001303",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001320",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001334",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001339",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001344",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001352",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001383",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001385",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001387",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001397",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001402",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001415",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001421",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001423",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001485",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001492",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001506",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001508",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001515",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001521",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001530",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001541",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001546",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001550",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001569",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001570",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001571",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001598",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001602",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001603",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001606",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001611",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001613",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001614",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001616",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001617",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001633",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001640",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001655",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001658",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001666",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001679",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001680",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001681",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001688",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001695",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001696",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001717",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001728",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001729",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001730",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001731",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001735",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001736",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001738",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001750",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001780",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001786",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001788",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001789",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001793",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001794",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001808",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001810",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001826",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001830",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001833",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001834",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001837",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001870",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001877",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001892",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001893",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001901",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001918",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001933",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001942",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001946",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001954",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001955",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001957",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001966",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001970",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001973",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-001984",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-001993",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002005",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002007",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002011",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002017",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002019",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002021",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002031",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002035",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002049",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002051",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002055",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002065",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002068",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002069",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002080",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002083",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002095",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002099",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002102",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002121",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002122",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002128",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002129",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002133",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002139",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002142",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002158",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002165",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002173",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002175",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002202",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002207",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002212",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002221",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002227",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002235",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002238",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002239",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002253",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002275",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002283",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002288",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002290",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002296",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002301",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002303",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002305",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002308",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002322",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002324",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002333",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002357",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002387",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002390",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002392",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002395",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002404",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002409",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002415",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002423",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002429",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002441",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002444",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002458",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002466",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002467",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002469",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002471",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002492",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002496",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002522",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002532",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002533",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002547",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002551",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002552",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002561",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002562",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002567",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002580",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002584",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002602",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002609",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002613",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002614",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002625",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002626",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002628",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002629",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002638",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002659",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002661",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002666",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002667",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002677",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002678",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002691",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002699",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002703",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002708",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002709",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002715",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002723",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002730",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002750",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002787",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002791",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002792",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002797",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002812",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002813",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002822",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002831",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002841",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002843",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002847",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002861",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002874",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002877",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002881",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002889",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002914",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002915",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002920",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002924",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002939",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002941",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002958",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002974",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002980",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-002982",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002994",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-002997",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003006",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003010",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003018",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003021",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003023",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003026",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003030",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003068",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003072",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003077",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003082",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003094",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003111",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003114",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003133",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003138",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003144",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003145",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003150",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003155",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003171",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003182",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003193",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003211",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003212",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003213",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003217",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003221",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003231",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003233",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003234",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003240",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003256",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003262",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003266",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003274",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003276",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003278",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003303",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003305",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003314",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003316",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003321",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003323",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003327",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003336",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003337",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003345",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003355",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003367",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003374",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003383",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003387",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003398",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003411",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003414",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003426",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003431",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003434",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003442",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003462",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003483",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003485",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003488",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003498",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003503",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003504",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003506",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003544",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003554",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003556",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003558",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003564",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003566",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003567",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003573",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003576",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003578",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003580",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003590",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003592",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003597",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003612",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003628",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003631",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003636",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003640",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003641",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003663",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003668",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003674",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003684",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003693",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003696",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003705",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003709",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003712",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003719",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003724",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003725",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003735",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003742",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003765",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003772",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003799",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003802",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003803",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003816",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003820",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003824",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003825",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003826",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003827",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003836",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003848",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003864",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003865",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003868",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003873",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003875",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003878",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003889",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003891",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003892",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003897",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003901",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003912",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003932",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003933",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003937",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003942",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003943",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003945",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003953",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003963",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003979",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003980",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-003988",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003996",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003997",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-003998",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004013",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004022",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004037",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004045",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004050",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004055",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004056",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004057",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004073",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004078",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004085",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004098",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004142",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004148",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004152",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004174",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004175",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004176",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004179",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004180",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004195",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004197",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004202",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004213",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004221",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004233",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004249",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004257",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004262",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004264",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004272",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004277",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004278",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004290",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004297",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004300",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004324",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004326",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004327",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004332",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004335",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004336",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004337",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004343",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004353",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004375",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004382",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004388",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004401",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004402",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004403",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004422",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004425",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004436",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004445",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004451",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004454",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004464",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004481",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004493",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004495",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004497",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004507",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004511",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004512",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004517",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004520",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004528",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004532",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004536",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004549",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004555",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004563",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004577",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004586",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004601",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004612",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004645",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004660",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004666",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004677",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004682",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004696",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004701",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004710",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004714",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004733",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004738",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004746",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004748",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004751",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004757",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004763",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004770",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004781",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004795",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004796",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004798",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004800",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004827",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004828",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004829",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004839",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004850",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004853",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004856",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004858",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004865",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004879",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004883",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004891",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004892",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004894",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004895",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004896",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004898",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004899",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004911",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004924",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004928",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004939",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004941",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004950",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004956",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004963",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-004964",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-004966",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005020",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005023",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005033",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005034",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005040",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005044",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005054",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005066",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005072",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005077",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005092",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005101",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005104",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005114",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005122",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005132",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005133",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005137",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005139",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005143",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005144",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005145",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005161",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005172",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005186",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005194",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005215",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005216",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005225",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005258",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005259",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005264",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005273",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005276",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005280",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005286",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005287",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005288",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005297",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005307",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005311",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005312",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005314",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005319",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005323",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005330",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005331",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005341",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005344",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005348",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005349",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005362",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005376",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005388",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005399",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005410",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005413",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005414",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005424",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005427",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005435",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005438",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005449",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005452",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005475",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005478",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005489",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005490",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005493",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005498",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005518",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005519",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005525",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005526",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005528",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005530",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005532",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005547",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005549",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005553",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005566",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005574",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005582",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005583",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005589",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005591",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005603",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005604",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005621",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005632",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005637",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005644",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005650",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005652",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005657",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005667",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005672",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005686",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005690",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005692",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005693",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005696",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005698",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005707",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005711",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005718",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005732",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005736",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005738",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005740",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005743",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005749",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005759",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005788",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005789",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005790",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005806",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005808",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005811",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005818",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005822",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005823",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005826",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005834",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005838",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005843",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005853",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005860",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005865",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005875",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005880",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005894",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005895",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005899",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005900",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005905",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005924",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005928",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005942",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005952",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005979",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005991",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005996",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "ALTA"
+  },
+  {
+    "event_id": "EVT-005997",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  },
+  {
+    "event_id": "EVT-005998",
+    "agent": "ConfigMonitorAgent",
+    "rule": "public_acl_or_iam_wildcard",
+    "severity": "MEDIA"
+  }
+]

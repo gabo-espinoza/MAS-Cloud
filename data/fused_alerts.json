@@ -1,0 +1,2221 @@
+[
+  {
+    "event_id": "EVT-000010",
+    "predicted_class": 1,
+    "confidence": 0.9433333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001289",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004511",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003826",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005892",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005312",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003327",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005823",
+    "predicted_class": 2,
+    "confidence": 0.8266666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002881",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005177",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001901",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001997",
+    "predicted_class": 2,
+    "confidence": 0.8966666666666666,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003010",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005981",
+    "predicted_class": 2,
+    "confidence": 0.9366666666666666,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002626",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001942",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003077",
+    "predicted_class": 2,
+    "confidence": 0.82,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002929",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004051",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003182",
+    "predicted_class": 1,
+    "confidence": 0.9576414011119371,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002580",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005905",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004142",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005979",
+    "predicted_class": 1,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004249",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000597",
+    "predicted_class": 1,
+    "confidence": 0.9266666666666666,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003953",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005811",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003171",
+    "predicted_class": 1,
+    "confidence": 0.963437579455886,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001658",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002083",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000812",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003325",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000950",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000913",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003498",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005362",
+    "predicted_class": 1,
+    "confidence": 0.9576271043771044,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003651",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001440",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003225",
+    "predicted_class": 3,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004911",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001041",
+    "predicted_class": 1,
+    "confidence": 0.8745469930794388,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004825",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000795",
+    "predicted_class": 3,
+    "confidence": 0.95,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001415",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005043",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002239",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005690",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004896",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002920",
+    "predicted_class": 1,
+    "confidence": 0.9424790381268786,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000402",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005330",
+    "predicted_class": 1,
+    "confidence": 0.9467561277183795,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001352",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001277",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003276",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002750",
+    "predicted_class": 1,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001781",
+    "predicted_class": 1,
+    "confidence": 0.9233333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005280",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001717",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005424",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001450",
+    "predicted_class": 1,
+    "confidence": 0.8133333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001344",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001177",
+    "predicted_class": 2,
+    "confidence": 0.9633333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004178",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000490",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002974",
+    "predicted_class": 1,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000876",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005652",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000471",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002556",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004683",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005822",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002333",
+    "predicted_class": 1,
+    "confidence": 0.9212476531421083,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004950",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004949",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000371",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004894",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002567",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000625",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002584",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004495",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004192",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005533",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002791",
+    "predicted_class": 1,
+    "confidence": 0.9233333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004332",
+    "predicted_class": 1,
+    "confidence": 0.9233333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003980",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001334",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005880",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003368",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000809",
+    "predicted_class": 1,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004733",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001541",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005591",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005376",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005172",
+    "predicted_class": 1,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003981",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002301",
+    "predicted_class": 3,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000220",
+    "predicted_class": 2,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005991",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004963",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002390",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000879",
+    "predicted_class": 3,
+    "confidence": 0.9633333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001108",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002173",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000602",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001072",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001092",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000624",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000295",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003316",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004655",
+    "predicted_class": 3,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001892",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005515",
+    "predicted_class": 2,
+    "confidence": 0.9,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005842",
+    "predicted_class": 2,
+    "confidence": 0.9733333333333334,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003374",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005554",
+    "predicted_class": 1,
+    "confidence": 0.7736432350718065,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005673",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003836",
+    "predicted_class": 1,
+    "confidence": 0.9333333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002936",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004429",
+    "predicted_class": 1,
+    "confidence": 0.93,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002303",
+    "predicted_class": 3,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004577",
+    "predicted_class": 2,
+    "confidence": 0.9766666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002221",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005033",
+    "predicted_class": 1,
+    "confidence": 0.9668738861134204,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005711",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000595",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004078",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001914",
+    "predicted_class": 1,
+    "confidence": 0.8637039628343072,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002677",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005783",
+    "predicted_class": 1,
+    "confidence": 0.8168562182154415,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001966",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000892",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004839",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003501",
+    "predicted_class": 2,
+    "confidence": 0.9833333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000304",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003897",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000900",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003145",
+    "predicted_class": 1,
+    "confidence": 0.9960942760942761,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004401",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000302",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004022",
+    "predicted_class": 2,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002049",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003663",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000385",
+    "predicted_class": 3,
+    "confidence": 0.6633333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001569",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000332",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005839",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005114",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005435",
+    "predicted_class": 3,
+    "confidence": 0.96,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005301",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000758",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000980",
+    "predicted_class": 1,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001000",
+    "predicted_class": 1,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005525",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001131",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004800",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004357",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000718",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002935",
+    "predicted_class": 2,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004065",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000653",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002296",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004898",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004563",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000203",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003014",
+    "predicted_class": 3,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001192",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001769",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001088",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003189",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005311",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002708",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003144",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005894",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001179",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005194",
+    "predicted_class": 3,
+    "confidence": 0.9766666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004382",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002522",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005145",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005276",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001603",
+    "predicted_class": 1,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002212",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004795",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005899",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002613",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005831",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002667",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005718",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002235",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003266",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005834",
+    "predicted_class": 2,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001984",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005319",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002283",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001994",
+    "predicted_class": 3,
+    "confidence": 0.9766666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003053",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001383",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002311",
+    "predicted_class": 2,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002532",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000004",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001616",
+    "predicted_class": 1,
+    "confidence": 0.9474782983827277,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001296",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003590",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001095",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001530",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004612",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000321",
+    "predicted_class": 2,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005843",
+    "predicted_class": 1,
+    "confidence": 0.9834922153869523,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003138",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005104",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003731",
+    "predicted_class": 3,
+    "confidence": 0.8966666666666666,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005101",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004098",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003583",
+    "predicted_class": 1,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005547",
+    "predicted_class": 1,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002887",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003494",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001571",
+    "predicted_class": 1,
+    "confidence": 0.9666666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002050",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000046",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004388",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002691",
+    "predicted_class": 1,
+    "confidence": 0.9426098693202652,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002243",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002533",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002703",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005137",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002678",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002629",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003221",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005255",
+    "predicted_class": 2,
+    "confidence": 0.9266666666666666,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003094",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003943",
+    "predicted_class": 3,
+    "confidence": 0.96,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004443",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004272",
+    "predicted_class": 1,
+    "confidence": 0.9634973989595839,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004049",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001731",
+    "predicted_class": 2,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002238",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004264",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001681",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005023",
+    "predicted_class": 3,
+    "confidence": 0.9733333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001488",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001606",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005793",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001421",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002847",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004309",
+    "predicted_class": 3,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004056",
+    "predicted_class": 3,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001902",
+    "predicted_class": 2,
+    "confidence": 0.9233333333333333,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005998",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005348",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003068",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003414",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002431",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000501",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003334",
+    "predicted_class": 2,
+    "confidence": 0.98,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005254",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004710",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003234",
+    "predicted_class": 2,
+    "confidence": 0.97,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003398",
+    "predicted_class": 1,
+    "confidence": 0.9927609427609428,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005621",
+    "predicted_class": 2,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002659",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000399",
+    "predicted_class": 2,
+    "confidence": 0.91,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000830",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004297",
+    "predicted_class": 1,
+    "confidence": 0.9219782439782439,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005732",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004996",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001550",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002031",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003592",
+    "predicted_class": 1,
+    "confidence": 0.94,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002357",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004327",
+    "predicted_class": 1,
+    "confidence": 0.9402910455329074,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002228",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000560",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004335",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003878",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004180",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002982",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003434",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001089",
+    "predicted_class": 2,
+    "confidence": 0.9866666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003874",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002874",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002939",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001666",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000815",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004050",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001617",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005696",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000102",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002441",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001320",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004738",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001254",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004891",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002484",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000984",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002308",
+    "predicted_class": 2,
+    "confidence": 0.9733333333333334,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004804",
+    "predicted_class": 2,
+    "confidence": 0.93,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000143",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002038",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003323",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003765",
+    "predicted_class": 3,
+    "confidence": 0.9466666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005288",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003912",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000111",
+    "predicted_class": 2,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005438",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000546",
+    "predicted_class": 1,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004751",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000179",
+    "predicted_class": 3,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000272",
+    "predicted_class": 3,
+    "confidence": 0.99,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003892",
+    "predicted_class": 1,
+    "confidence": 0.9933333333333333,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004045",
+    "predicted_class": 3,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002492",
+    "predicted_class": 2,
+    "confidence": 0.71,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000831",
+    "predicted_class": 2,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003411",
+    "predicted_class": 1,
+    "confidence": 0.9722496349929979,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002204",
+    "predicted_class": 1,
+    "confidence": 0.8186743293434741,
+    "corroborated_by_config_agent": false,
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005216",
+    "predicted_class": 1,
+    "confidence": 0.9966666666666667,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005875",
+    "predicted_class": 1,
+    "confidence": 1.0,
+    "corroborated_by_config_agent": true,
+    "consensus_votes": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "account": "acct-784788",
+    "agent": "LateralMovementAgent",
+    "out_degree": 18,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-787085",
+    "agent": "LateralMovementAgent",
+    "out_degree": 27,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-700897",
+    "agent": "LateralMovementAgent",
+    "out_degree": 15,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-713522",
+    "agent": "LateralMovementAgent",
+    "out_degree": 19,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-786551",
+    "agent": "LateralMovementAgent",
+    "out_degree": 26,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-791279",
+    "agent": "LateralMovementAgent",
+    "out_degree": 27,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-708375",
+    "agent": "LateralMovementAgent",
+    "out_degree": 20,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-769685",
+    "agent": "LateralMovementAgent",
+    "out_degree": 28,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-746273",
+    "agent": "LateralMovementAgent",
+    "out_degree": 16,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-734988",
+    "agent": "LateralMovementAgent",
+    "out_degree": 17,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-717111",
+    "agent": "LateralMovementAgent",
+    "out_degree": 21,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-753287",
+    "agent": "LateralMovementAgent",
+    "out_degree": 21,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-712630",
+    "agent": "LateralMovementAgent",
+    "out_degree": 25,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-705913",
+    "agent": "LateralMovementAgent",
+    "out_degree": 26,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-731689",
+    "agent": "LateralMovementAgent",
+    "out_degree": 19,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-714669",
+    "agent": "LateralMovementAgent",
+    "out_degree": 25,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-791085",
+    "agent": "LateralMovementAgent",
+    "out_degree": 19,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-723547",
+    "agent": "LateralMovementAgent",
+    "out_degree": 20,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-723845",
+    "agent": "LateralMovementAgent",
+    "out_degree": 20,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-716434",
+    "agent": "LateralMovementAgent",
+    "out_degree": 22,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-723115",
+    "agent": "LateralMovementAgent",
+    "out_degree": 26,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-769804",
+    "agent": "LateralMovementAgent",
+    "out_degree": 19,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-773194",
+    "agent": "LateralMovementAgent",
+    "out_degree": 12,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-735922",
+    "agent": "LateralMovementAgent",
+    "out_degree": 24,
+    "severity": "ALTA"
+  },
+  {
+    "account": "acct-755187",
+    "agent": "LateralMovementAgent",
+    "out_degree": 19,
+    "severity": "ALTA"
+  }
+]

@@ -1,0 +1,2221 @@
+[
+  {
+    "event_id": "EVT-000010",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001289",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004511",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003826",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005892",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005312",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003327",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005823",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002881",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005177",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001901",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001997",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003010",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005981",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002626",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001942",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003077",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002929",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004051",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003182",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002580",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005905",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004142",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005979",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004249",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000597",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003953",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005811",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003171",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001658",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002083",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000812",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003325",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000950",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000913",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003498",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005362",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003651",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001440",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003225",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004911",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001041",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004825",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000795",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001415",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005043",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002239",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005690",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004896",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002920",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000402",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005330",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001352",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001277",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003276",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002750",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001781",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005280",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001717",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005424",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001450",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001344",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001177",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004178",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000490",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002974",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000876",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005652",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000471",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002556",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004683",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005822",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002333",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004950",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004949",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000371",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004894",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002567",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000625",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002584",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004495",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004192",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005533",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002791",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004332",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003980",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001334",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005880",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003368",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000809",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004733",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001541",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005591",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005376",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005172",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003981",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002301",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000220",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005991",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004963",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002390",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000879",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001108",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002173",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000602",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001072",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001092",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000624",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000295",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003316",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004655",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001892",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005515",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005842",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003374",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005554",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005673",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003836",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002936",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004429",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002303",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004577",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002221",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005033",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005711",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000595",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004078",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001914",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002677",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005783",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001966",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000892",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004839",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003501",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000304",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003897",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000900",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003145",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004401",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000302",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004022",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002049",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003663",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000385",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001569",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000332",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005839",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005114",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005435",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005301",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000758",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000980",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001000",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005525",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001131",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004800",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004357",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000718",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002935",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004065",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000653",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002296",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004898",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004563",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000203",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003014",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001192",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001769",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001088",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003189",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005311",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002708",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003144",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005894",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001179",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005194",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004382",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002522",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005145",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005276",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001603",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002212",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004795",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005899",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002613",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005831",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002667",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005718",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002235",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003266",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005834",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001984",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005319",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002283",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001994",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003053",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001383",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002311",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002532",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000004",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001616",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001296",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003590",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001095",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001530",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004612",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000321",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005843",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003138",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005104",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003731",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005101",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004098",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003583",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005547",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002887",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003494",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001571",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002050",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000046",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004388",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002691",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002243",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002533",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002703",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005137",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002678",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002629",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003221",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005255",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003094",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003943",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004443",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004272",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004049",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001731",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002238",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004264",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001681",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005023",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001488",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001606",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005793",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001421",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002847",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004309",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004056",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001902",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005998",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005348",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003068",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003414",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002431",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000501",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003334",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005254",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-004710",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003234",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003398",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005621",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002659",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000399",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000830",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004297",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005732",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004996",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-001550",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002031",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003592",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002357",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004327",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002228",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000560",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004335",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003878",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004180",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002982",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003434",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001089",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003874",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-002874",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002939",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001666",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000815",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004050",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001617",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005696",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000102",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002441",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001320",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004738",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-001254",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004891",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002484",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000984",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002308",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004804",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-000143",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002038",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003323",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003765",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005288",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003912",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000111",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005438",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000546",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004751",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000179",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000272",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-003892",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-004045",
+    "agent": "ResponseAgent",
+    "action": "Aislar instancia/funci\u00f3n y activar snapshot forense",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002492",
+    "agent": "ResponseAgent",
+    "action": "Revocar credenciales temporales y forzar reautenticaci\u00f3n (MFA)",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-000831",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-003411",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-002204",
+    "agent": "ResponseAgent",
+    "action": "Marcar para revisi\u00f3n (confianza insuficiente para autonom\u00eda total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1
+  },
+  {
+    "event_id": "EVT-005216",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  },
+  {
+    "event_id": "EVT-005875",
+    "agent": "ResponseAgent",
+    "action": "Revertir configuraci\u00f3n p\u00fablica / aplicar pol\u00edtica de m\u00ednimo privilegio",
+    "status": "EJECUTADA_AUTOMATICAMENTE",
+    "consensus_votes": 2
+  }
+]

@@ -1,0 +1,2538 @@
+[
+  {
+    "event_id": "EVT-000010",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003826",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005892",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005177",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001997",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005981",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002929",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004051",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000597",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003325",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003651",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001440",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003225",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004825",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005043",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000402",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001781",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001450",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004178",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000876",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002556",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004683",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004949",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004192",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005533",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003368",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003981",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000220",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000879",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000602",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000295",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005515",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005842",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005554",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004429",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001914",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005783",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003501",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000900",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005839",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005301",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004357",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002935",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004065",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003014",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001769",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001088",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003189",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005311",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001179",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004382",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002522",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005145",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005831",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001994",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003053",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002311",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001095",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003731",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003583",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002887",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003494",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002050",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000046",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002243",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005255",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004443",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004049",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001488",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005793",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004309",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001902",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002431",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000501",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003334",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-005254",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004996",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002228",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-003874",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004050",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002484",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-004804",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002038",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-000831",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-002204",
+    "agent": "ResponseAgent_LLM",
+    "action": "Marcar para revision (confianza insuficiente para autonomia total)",
+    "status": "PENDIENTE_REVISION_HUMANA",
+    "consensus_votes": 1,
+    "reasoning_llm": null
+  },
+  {
+    "event_id": "EVT-001289",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Alta confianza en exfiltración de datos: se detectó alta transferencia de datos en horario no laboral, con permisos wildcard y sin MFA. Revocar credenciales y forzar reautenticación con MFA es la acción más rápida para cortar el acceso del atacante y evitar mayor fuga de información."
+  },
+  {
+    "event_id": "EVT-004511",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: el atacante asumió un rol sin MFA, explotando permisos wildcard para acceder a múltiples recursos. Se aísla la instancia de la red para contener la propagación y se activa un snapshot forense antes de terminarla, evitando daños mayores."
+  },
+  {
+    "event_id": "EVT-005312",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza ML, uso de permisos wildcard y alta transferencia de datos entre múltiples recursos. Se aísla la instancia para contener la propagación del ataque, cortar el acceso a otros recursos y preservar evidencia mediante snapshot forense antes de terminarla."
+  },
+  {
+    "event_id": "EVT-003327",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza, afectando múltiples recursos. Se aísla la instancia para contener la propagación del ataque, se activa snapshot forense para preservar evidencia y se termina la instancia para eliminar el punto de compromiso. La presencia de permisos wildcard y ausencia de MFA facilitaron el movimiento lateral, por lo que el aislamiento es crítico para detener la amenaza."
+  },
+  {
+    "event_id": "EVT-005823",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza ML, afectando múltiples recursos. Se detectó uso de permisos wildcard, creación de un nuevo rol y ausencia de MFA, lo que indica un atacante activo expandiendo su acceso. El aislamiento de la instancia evita que continúe desplazándose lateralmente y permite preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-002881",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: transferencia masiva de datos, permisos wildcard y ausencia de MFA. Revocar credenciales y forzar reautenticación con MFA es la acción más rápida para cortar el acceso no autorizado y evitar más pérdida de datos, mientras se preserva la instancia para análisis forense posterior."
+  },
+  {
+    "event_id": "EVT-001901",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001901 corresponde a una misconfiguration con severidad ALTA: se detectó una ACL pública con permisos wildcard y ausencia de MFA, corroborado por ML (confianza 1.0) y el agente de configuración. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición de recursos y prevenir accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-003010",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración con alta confianza (0.99) y consenso de 2 agentes. Hay alta entropía, gran transferencia de datos, ACL pública y permisos wildcard. Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance y evita daños mayores, siendo la acción más contundente para una amenaza de severidad ALTA."
+  },
+  {
+    "event_id": "EVT-002626",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002626 corresponde a una mala configuracion (misconfiguration) con severidad ALTA. El ThreatHuntingAgent confirma con confianza 1.0 que hay una ACL publica, un nuevo rol asumido y ausencia de MFA. La accion mas adecuada es revertir la configuracion insegura a su estado seguro por defecto, eliminando la exposicion innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-001942",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001942 corresponde a una misconfiguración de alta severidad con ACL pública, permisos wildcard y rol sin MFA. El consenso de 2 agentes y la alta confianza del ML (1.0) confirman que se trata de una configuración insegura. Se revierte la configuración a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-003077",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza (0.907), evidenciado por alta entropía, acceso a múltiples recursos, permisos wildcard y actividad en horario no laboral. Se aísla la instancia para contener la propagación del atacante, cortar su comunicación con otros recursos y preservar evidencia mediante snapshot forense antes de terminarla."
+  },
+  {
+    "event_id": "EVT-003182",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una misconfiguration de tipo ACL pública detectada con alta confianza (0.98) y corroborada por el agente de configuración. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición no autorizada de recursos."
+  },
+  {
+    "event_id": "EVT-002580",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública, política IAM con wildcard y un nuevo rol sin MFA, lo que expone los recursos a accesos no autorizados. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-005905",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-005905 corresponde a una mala configuración (misconfiguration) de severidad ALTA con consenso de 2 agentes. Se detectaron ACL pública, política IAM con wildcard y un nuevo rol sin MFA, lo que expone recursos críticos. La acción más adecuada es revertir estas configuraciones inseguras a su estado seguro por defecto para eliminar la superficie de ataque de forma inmediata y automática."
+  },
+  {
+    "event_id": "EVT-004142",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una mala configuración (misconfiguration) con ACL pública y alta transferencia de datos. Aunque no hay wildcard IAM ni nuevo rol, el riesgo es moderado y requiere revertir la ACL pública a su estado seguro por defecto para evitar exposición de datos no autorizada."
+  },
+  {
+    "event_id": "EVT-005979",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y una política IAM con wildcard, lo que constituye una mala configuración que expone recursos. Aunque hay MFA presente y baja transferencia (riesgo medio), la acción más adecuada es revertir la configuración insegura a su estado seguro por defecto para eliminar la superficie de exposición, sin necesidad de aislar instancias ni revocar credenciales, ya que no hay evidencia de compromiso activo."
+  },
+  {
+    "event_id": "EVT-004249",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004249 corresponde a una mala configuración (misconfiguration) con ACL pública y políticas IAM con wildcard. Aunque tiene MFA y baja actividad, el riesgo es medio y el consenso es suficiente para actuar. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-003953",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003953 corresponde a una mala configuración (misconfiguration) de severidad ALTA con ACL pública y políticas IAM con wildcard. El ThreatHuntingAgent confirma riesgo alto con actividad sospechosa en horario no laboral. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata sin necesidad de aislar recursos ni revocar credenciales aún."
+  },
+  {
+    "event_id": "EVT-005811",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración activa con alta confianza: alta entropía IP, múltiples peticiones y gran transferencia de datos. Además, hay ACL pública y política IAM con wildcard que facilitan la fuga. Aislar la instancia de la red detiene inmediatamente la exfiltración y permite tomar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-003171",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública en el recurso cloud que permite acceso no autorizado a datos, con transferencia significativa de datos. Aunque no hay wildcard IAM ni nuevo rol, el riesgo es medio y la configuración insegura debe revertirse a su estado seguro por defecto para evitar exposición continua de datos."
+  },
+  {
+    "event_id": "EVT-001658",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001658 corresponde a una mala configuración (misconfiguration) con ACL pública y políticas IAM con wildcard. Aunque la severidad es media y hay MFA activo, estas configuraciones inseguras representan un riesgo de exposición de datos. Se revierte la configuración a su estado seguro por defecto para eliminar la superficie de ataque sin necesidad de aislar instancias o revocar credenciales, ya que no hay evidencia de compromiso activo."
+  },
+  {
+    "event_id": "EVT-002083",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración activa con 732 MB de datos transferidos, alta entropía IP, permisos wildcard y ACL pública. El aislamiento de la instancia detiene inmediatamente la fuga de datos, corta la comunicación con el atacante y permite preservar evidencia forense mediante snapshot antes de terminar el recurso comprometido."
+  },
+  {
+    "event_id": "EVT-000812",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y permisos wildcard en la configuración, lo que expone recursos cloud a accesos no autorizados. Aunque la actividad es baja, el riesgo de exposición es alto. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-000950",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral con escalada de privilegios detectado: se usó un nuevo rol con permisos wildcard para acceder a múltiples recursos. Revocar credenciales y forzar reautenticación con MFA corta el acceso del atacante de forma inmediata, evitando que continúe moviéndose lateralmente en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-000913",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y permisos wildcard en la configuración, lo que representa un riesgo de exposición de datos. Aunque la actividad es baja, revertir la configuración a un estado seguro elimina la superficie de ataque de forma inmediata y preventiva."
+  },
+  {
+    "event_id": "EVT-003498",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se trata de una misconfiguration con ACL pública detectada. Aunque el riesgo está parcialmente mitigado por MFA y ausencia de wildcard, revertir la ACL a su estado seguro por defecto elimina la exposición innecesaria y previene accesos no autorizados futuros, siendo la acción más adecuada para este tipo de amenaza."
+  },
+  {
+    "event_id": "EVT-005362",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una configuración insegura con permisos wildcard que podría exponer datos de forma no intencionada. La acción más adecuada es revertir la configuración a su estado seguro por defecto para eliminar el riesgo de exposición, en línea con el consenso de los agentes sobre la clase de amenaza \"misconfiguration\"."
+  },
+  {
+    "event_id": "EVT-004911",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004911 corresponde a una misconfiguration con ACL pública y política IAM con wildcard. Dado que el consenso indica que es una configuración insegura y no un ataque activo, la acción más adecuada es revertir la configuración a su estado seguro por defecto, eliminando el riesgo de exposición sin necesidad de aislar recursos o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-001041",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001041 corresponde a una mala configuración (misconfiguration) con consenso de 2 agentes. Se detectó una política IAM con wildcard y falta de MFA, lo que representa un riesgo de seguridad. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria."
+  },
+  {
+    "event_id": "EVT-000795",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta severidad: alta entropía, múltiples peticiones, ACL pública, IAM wildcard y alta transferencia de datos. Aislar la instancia detiene inmediatamente la fuga, permite tomar un snapshot forense para investigar el alcance y evita que el atacante continúe extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-001415",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001415 corresponde a una mala configuración (ACL pública y política IAM con wildcard) con baja actividad y sin transferencia significativa. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria, sin necesidad de aislar instancias ni revocar credenciales, ya que no hay evidencia de uso malicioso activo."
+  },
+  {
+    "event_id": "EVT-002239",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta severidad: alta entropía, múltiples peticiones, alta transferencia en horario no laboral y sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance y evita que el atacante continúe extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-005690",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta severidad: alta entropía, múltiples peticiones, transferencia masiva en horario no laboral y sin MFA. Aislar la instancia detiene la fuga inmediatamente y permite preservar evidencia forense mediante snapshot antes de terminarla, evitando la pérdida de datos sensibles."
+  },
+  {
+    "event_id": "EVT-004896",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004896 corresponde a una mala configuración (misconfiguration) con evidencia de ACL pública y política IAM con wildcard. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos, evitando accesos no autorizados sin necesidad de aislar instancias o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-002920",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una política IAM con wildcard que expone recursos innecesariamente. Aunque no hay actividad maliciosa actual, es una configuración insegura que debe revertirse a un estado seguro por defecto para prevenir accesos no autorizados futuros."
+  },
+  {
+    "event_id": "EVT-005330",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con alta confianza (0.953) consistente en permisos IAM con wildcard. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto, eliminando los permisos excesivos que podrían exponer recursos del cloud."
+  },
+  {
+    "event_id": "EVT-001352",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (1.0), con transferencia masiva en horario atípico y permisos IAM con wildcard. Revocar credenciales y forzar reautenticación con MFA es la acción más rápida para cortar el acceso del atacante y evitar que continúe extrayendo datos, mientras se preserva la instancia para análisis forense posterior."
+  },
+  {
+    "event_id": "EVT-001277",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta confianza (1.0) y consenso de 2 agentes. La instancia presenta ACL pública, un rol sospechoso asumido y alta transferencia de datos, indicando una fuga activa. Se aísla la instancia de la red para contener la exfiltración y se activa un snapshot forense para preservar evidencia antes de terminarla."
+  },
+  {
+    "event_id": "EVT-003276",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con alta confianza: ACL pública y permisos IAM con wildcard. Revirtiendo la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-002750",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002750 corresponde a una misconfiguration con alta confianza (0.997), corroborada por el config agent. Se detectó una ACL pública y un nuevo rol asumido, lo que expone recursos cloud de forma innecesaria. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición sin afectar la disponibilidad del servicio."
+  },
+  {
+    "event_id": "EVT-005280",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con confianza total (1.0) que incluye ACL pública y permisos IAM con wildcard, lo que expone recursos cloud a accesos no autorizados. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-001717",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó movimiento lateral con alta confianza (1.0), involucrando múltiples recursos, permisos wildcard y un nuevo rol asumido. Aislar la instancia/función comprometida detiene la propagación del atacante dentro del entorno cloud y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-005424",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con alta confianza (1.0) que incluye una ACL pública y un rol asumido indebidamente. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición no autorizada de recursos."
+  },
+  {
+    "event_id": "EVT-001344",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001344 corresponde a una misconfiguration confirmada por consenso de 2 agentes: ACL pública y ausencia de MFA. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición sin necesidad de aislar recursos ni escalar a humano."
+  },
+  {
+    "event_id": "EVT-001177",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado: se detectó asunción de un nuevo rol con wildcards, alta entropía, fuera de horas y sin MFA. Revocar credenciales temporales y forzar reautenticación con MFA corta el acceso del atacante y evita que siga pivotando entre recursos."
+  },
+  {
+    "event_id": "EVT-000490",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó acceso a múltiples recursos con wildcards, creación de un nuevo rol en horario no laboral, sin MFA y con alta transferencia de datos. Aislar la instancia evita que el atacante siga desplazándose lateralmente por el entorno, y el snapshot forense permitirá analizar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-002974",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una misconfiguration (ACL pública) confirmada por el config agent y el ThreatHuntingAgent. Aunque la severidad es media y hay baja actividad, revertir la configuración insegura a su estado seguro por defecto es la acción más adecuada para eliminar el riesgo de exposición no autorizada sin necesidad de aislar recursos ni revocar credenciales."
+  },
+  {
+    "event_id": "EVT-005652",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado: alta entropía, múltiples recursos accedidos con wildcards, nuevo rol creado fuera de horario laboral y sin MFA. Se revocan credenciales temporales para cortar el acceso del atacante y forzar reautenticación con MFA, deteniendo la progresión lateral en la nube."
+  },
+  {
+    "event_id": "EVT-000471",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta entropía, múltiples peticiones en horario no laboral y alta transferencia. Además, hay ACL pública y políticas IAM con wildcard que facilitan la fuga. Aislar la instancia detiene inmediatamente la exfiltración y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-005822",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con escalada de privilegios mediante nuevo rol con permisos wildcard. Se revocan las credenciales temporales para cortar el acceso del atacante y forzar reautenticación con MFA, evitando que continúe moviéndose lateralmente en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-002333",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002333 corresponde a una misconfiguración con permisos wildcard y horario atípico. Se revierte la configuración insegura a su estado seguro por defecto para eliminar el riesgo de exposición no deseada de recursos."
+  },
+  {
+    "event_id": "EVT-004950",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con severidad ALTA, explorando recursos internos usando permisos wildcard. Se aísla la instancia de la red para contener la propagación y se activa un snapshot forense para preservar evidencia del incidente."
+  },
+  {
+    "event_id": "EVT-000371",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-000371 corresponde a una misconfiguración crítica con ACL pública y permisos wildcard, lo que expone recursos cloud de forma innecesaria. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata, sin necesidad de aislar instancias o revocar credenciales, ya que el problema es de configuración."
+  },
+  {
+    "event_id": "EVT-004894",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado: se asumió un nuevo rol con permisos wildcard en horario atípico. Revocar credenciales y forzar reautenticación con MFA corta la sesión activa y evita que el atacante siga moviéndose lateralmente en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-002567",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado: se asumió un nuevo rol con permisos wildcard en horario atípico. Revocar credenciales y forzar reautenticación con MFA corta el acceso malicioso de forma inmediata, evitando que el atacante siga moviéndose dentro del entorno cloud."
+  },
+  {
+    "event_id": "EVT-000625",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-000625 corresponde a una misconfiguración de alta severidad con ACL pública, permisos wildcard y un rol inseguro. Se revierte la configuración a su estado seguro por defecto para eliminar la exposición innecesaria de recursos y evitar accesos no autorizados, en línea con el consenso de los agentes."
+  },
+  {
+    "event_id": "EVT-002584",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta transferencia, alta tasa de requests y permisos wildcard. Aislar la instancia detiene inmediatamente la fuga, permite tomar un snapshot forense para investigar el alcance y evita que el atacante continúe extrayendo datos."
+  },
+  {
+    "event_id": "EVT-004495",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza (0.997): el atacante ya asumió un nuevo rol y está accediendo a múltiples recursos desde IP de alta entropía en horario no laboral, con permisos wildcard IAM. Aislar la instancia evita que el atacante siga desplazándose lateralmente hacia otros recursos críticos, y el snapshot forense permitirá analizar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-002791",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con alta confianza (0.97) que incluye permisos IAM con wildcard en horario no laboral. Se revierte la política insegura a su estado seguro por defecto para eliminar el riesgo de exposición de recursos."
+  },
+  {
+    "event_id": "EVT-004332",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con alta confianza (0.979): ACL pública, ausencia de MFA y actividad en horario no laboral. Se revierte la configuración insegura (ACL pública y políticas IAM con wildcard) a su estado seguro por defecto para eliminar la exposición y prevenir accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-003980",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003980 corresponde a una misconfiguration de severidad ALTA con consenso de 2 agentes. Se detectó una ACL pública, permisos wildcard y un rol asumido sin MFA, lo que expone recursos críticos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-001334",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración crítica con ACL pública y permisos wildcard, lo que expone recursos cloud a accesos no autorizados. Aunque la transferencia de datos es baja, la severidad es ALTA y hay consenso de 2 agentes. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-005880",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (0.997) y consenso de 2 agentes. La instancia presenta ACL pública, permisos wildcard y una transferencia anómala de 692 MB hacia IP de alta entropía. Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-000809",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una mala configuración (misconfiguration) con alta confianza de ML (0.983) y consenso de 2 agentes. Se detectaron permisos IAM con wildcard y un nuevo rol asumido, lo que representa un riesgo de escalada de privilegios. Aunque la actividad y transferencia son bajas, lo más adecuado es revertir la configuración insegura a su estado seguro por defecto para eliminar el vector de ataque de forma preventiva."
+  },
+  {
+    "event_id": "EVT-004733",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004733 corresponde a una misconfiguration de severidad ALTA con ACL pública y políticas IAM con wildcard, lo que expone recursos críticos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-001541",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: alta entropía, múltiples recursos comprometidos, transferencia de datos sospechosa en horario no laboral sin MFA. Se aísla la instancia para contener la propagación del ataque, se activa snapshot forense para preservar evidencia y se termina la instancia para eliminar el punto de apoyo del atacante."
+  },
+  {
+    "event_id": "EVT-005591",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y política IAM con wildcard. Aunque la actividad es baja, estas configuraciones exponen recursos innecesariamente. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de acceso no autorizado."
+  },
+  {
+    "event_id": "EVT-005376",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de severidad ALTA con ACL pública, políticas IAM con wildcard y un nuevo rol asumido que podría permitir escalada de privilegios. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición y prevenir accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-005172",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y política IAM con wildcard. Aunque la actividad es baja, estas configuraciones inseguras exponen recursos cloud a accesos no autorizados. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de exposición."
+  },
+  {
+    "event_id": "EVT-002301",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta severidad: transferencia masiva de datos, uso de wildcard IAM, nuevo rol sin MFA. Revocar credenciales y forzar reautenticación con MFA es la acción más inmediata para cortar el acceso no autorizado y evitar mayor fuga de información."
+  },
+  {
+    "event_id": "EVT-005991",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública en la configuración, lo que expone recursos de forma indebida. Aunque no hay wildcard IAM, la ACL pública es una misconfiguration que debe revertirse a su estado seguro por defecto para evitar accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-004963",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y política IAM con wildcard. Aunque la severidad es media y la actividad es baja, estas configuraciones exponen recursos críticos de forma innecesaria. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de exposición no autorizada."
+  },
+  {
+    "event_id": "EVT-002390",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de alta severidad con ACL pública y política IAM con wildcard. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-001108",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y política IAM con wildcard, lo que expone recursos críticos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-002173",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de severidad ALTA con ACL pública y política IAM con wildcard. El ThreatHuntingAgent confirma alta confianza en que se trata de una configuración insegura. Se revierte la configuración a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-001072",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza: alta entropía, múltiples peticiones a diversos recursos y uso de wildcard IAM. Se aísla la instancia para contener la propagación del atacante dentro del entorno cloud, se activa snapshot forense para preservar evidencia antes de terminarla."
+  },
+  {
+    "event_id": "EVT-001092",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza: alta entropía, múltiples peticiones, uso de wildcard IAM y nuevo rol fuera de horas sin MFA. Se aísla la instancia para contener la propagación del atacante y se activa un snapshot forense para preservar evidencias antes de terminarla."
+  },
+  {
+    "event_id": "EVT-000624",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de alta severidad con ACL pública y política IAM con wildcard. El ThreatHuntingAgent confirmó alta confianza en la clasificación. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-003316",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003316 corresponde a una misconfiguration de alta severidad con ACL pública y política IAM con wildcard. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos, siguiendo el principio de mínimo privilegio y evitando accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-004655",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: 564 MB transferidos fuera de horario laboral, alta entropía IP y sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos, permite preservar evidencias mediante snapshot forense y evita que el atacante continúe extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-001892",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y permisos IAM con wildcard en horario no laboral sin MFA, lo que constituye una misconfiguration de alto riesgo. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-003374",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003374 corresponde a una misconfiguration crítica con ACL pública y permisos wildcard IAM. Aunque hay baja actividad y MFA presente, la configuración insegura expone recursos cloud a accesos no autorizados. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de exposición."
+  },
+  {
+    "event_id": "EVT-005673",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral con alta confianza ML, alta entropía IP y múltiples recursos tocados. Se aísla la instancia para contener la propagación del posible atacante, se activa snapshot forense para preservar evidencia antes de terminarla, evitando que acceda a más recursos."
+  },
+  {
+    "event_id": "EVT-003836",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003836 corresponde a una misconfiguration crítica con ACL pública expuesta. Aunque no tiene wildcard, la exposición es alta y no hay MFA habilitado. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-002936",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral activo detectado con alta confianza: se observó asunción de nuevo rol, alta entropía IP, acceso a múltiples recursos y transferencia de 23 MB de datos. Esto indica que un atacante ya se desplaza dentro del entorno cloud. Aislar la instancia de la red y tomar un snapshot forense permite contener la propagación inmediatamente y preservar evidencia para análisis posterior."
+  },
+  {
+    "event_id": "EVT-002303",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: tráfico masivo a IP de alta entropía en horario no laboral, sin MFA, con ACL pública y permisos wildcard. Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-004577",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza: permisos wildcard, horario no laboral, sin MFA y múltiples recursos comprometidos. Se revocan credenciales para cortar el acceso del atacante y forzar reautenticación con MFA, deteniendo la propagación."
+  },
+  {
+    "event_id": "EVT-002221",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: tráfico masivo hacia IP de alta entropía, ACL pública expuesta, acceso en horario no laboral sin MFA. Aislar la instancia detiene la fuga inmediatamente y permite preservar evidencia forense para investigación posterior."
+  },
+  {
+    "event_id": "EVT-005033",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública en la configuración, lo que expone recursos de forma indebida. Aunque no hay actividad maliciosa activa y el MFA está presente, es necesario revertir esta configuración insegura a su estado seguro por defecto para eliminar el riesgo de exposición no autorizada."
+  },
+  {
+    "event_id": "EVT-005711",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta confianza: tráfico masivo a IP de alta entropía, permisos wildcard, nuevo rol asumido sin MFA en horario no laboral. Se aísla la instancia de la red para contener la fuga y se activa snapshot forense para preservar evidencias antes de terminarla."
+  },
+  {
+    "event_id": "EVT-000595",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó un nuevo rol asumido sin MFA en horario no laboral, con alta entropía IP y permisos wildcard. Esto indica que un atacante ya comprometió una instancia y está pivotando dentro del entorno. Aislar la instancia de la red y tomar un snapshot forense permite contener la propagación inmediatamente y preservar evidencia para análisis posterior."
+  },
+  {
+    "event_id": "EVT-004078",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una mala configuración (misconfiguration) con ACL pública y permisos wildcard, confirmada por consenso de 2 agentes. Aunque hay MFA presente y baja actividad, el riesgo de exposición de recursos es alto. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque sin necesidad de aislar instancias o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-002677",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó acceso a múltiples recursos usando permisos wildcard, asunción de un nuevo rol sin MFA en horario no laboral. Aislar la instancia/función comprometida detiene la propagación del atacante y permite preservar evidencia forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-001966",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001966 corresponde a una mala configuración (misconfiguration) con evidencia de ACL pública y política IAM con wildcard. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria, sin necesidad de aislar instancias o revocar credenciales, ya que no hay indicios de compromiso activo."
+  },
+  {
+    "event_id": "EVT-000892",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta entropía y gran transferencia desde un rol nuevo sin MFA. La acción más inmediata y efectiva es revocar las credenciales temporales para cortar el acceso del atacante y forzar reautenticación con MFA, deteniendo la fuga en curso."
+  },
+  {
+    "event_id": "EVT-004839",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004839 corresponde a una mala configuración (misconfiguration) con evidencia de ACL pública y política IAM con wildcard. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos, sin necesidad de aislar instancias o revocar credenciales, ya que no hay indicios de actividad maliciosa activa."
+  },
+  {
+    "event_id": "EVT-000304",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: el atacante ya se desplaza entre recursos usando un nuevo rol y credenciales posiblemente comprometidas. Aislar la instancia/función evita que el movimiento continúe hacia otros activos, y el snapshot forense permitirá investigar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-003897",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: alta entropía, múltiples recursos comprometidos, IAM con wildcard y ausencia de MFA. Aislar la instancia detiene la propagación del atacante hacia otros recursos, permite tomar un snapshot forense para investigar el alcance del compromiso y evita daños mayores en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-003145",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003145 corresponde a una mala configuración (misconfiguration) con evidencia de una ACL pública. Dado que no hay wildcards ni actividad sospechosa adicional, la acción más adecuada es revertir la configuración insegura a su estado seguro por defecto, eliminando la exposición innecesaria del recurso."
+  },
+  {
+    "event_id": "EVT-004401",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta entropía, gran volumen de transferencia y ACL pública. Aislar la instancia detiene la fuga inmediatamente, corta la comunicación con el atacante y permite preservar evidencia forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-000302",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó alta entropía, acceso a múltiples recursos, uso de IAM con wildcard y un nuevo rol sin MFA. Esto indica que un atacante podría estar desplazándose dentro del entorno cloud. Aislar la instancia/función comprometida detiene la progresión del ataque, evita mayor exfiltración o escalada, y permite preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-004022",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza (0.983): se detectó acceso a múltiples recursos desde IP de alta entropía, asunción de nuevo rol sin MFA y permisos wildcard IAM en horario no laboral. Se aísla la instancia para contener la propagación del ataque y se activa snapshot forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-002049",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002049 corresponde a una misconfiguration con alta confianza (0.993). Se detectó una ACL pública que expone recursos de forma indebida, con baja entropía IP y pocas peticiones, lo que descarta un ataque activo. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto, eliminando la exposición innecesaria sin afectar la disponibilidad del servicio."
+  },
+  {
+    "event_id": "EVT-003663",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003663 corresponde a una misconfiguration con alta confianza (0.991). Se detectó una ACL pública y un rol asumido sin MFA, lo que expone recursos de forma innecesaria. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición sin afectar la disponibilidad del servicio."
+  },
+  {
+    "event_id": "EVT-000385",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Exfiltración de datos confirmada con alta severidad: 56.7 MB transferidos en horario no laboral, sin MFA, con permisos wildcard y alta entropía en IP. Se aísla la instancia para contener la fuga, detener el tráfico saliente y preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-001569",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública, permisos wildcard y un rol asumido sin MFA en horario no laboral. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición y prevenir accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-000332",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó alta transferencia de datos (25.5 MB), asunción de nuevo rol con permisos wildcard y sin MFA, lo que indica que un atacante ya comprometió un recurso y está explorando otros. Aislar la instancia detiene la propagación, permite preservar evidencia forense con snapshot y evita daños mayores en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-005114",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con máxima confianza: alta entropía IP, múltiples recursos accedidos, nuevo rol asumido en horario no laboral con permisos wildcard y sin MFA. Se aísla la instancia/función comprometida para contener la propagación del atacante y se activa un snapshot forense para su posterior análisis."
+  },
+  {
+    "event_id": "EVT-005435",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Exfiltración confirmada con alta confianza (ML 0.977) y consenso de 2 agentes. Se detectó transferencia masiva de datos (1045.2 MB) con alta entropía IP, permisos wildcard y sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance y luego terminarla de forma segura."
+  },
+  {
+    "event_id": "EVT-000758",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración crítica (ACL pública y política IAM con wildcard) que expone recursos cloud. La alta confianza del modelo ML (1.0) y las reglas de threat hunting confirman que se trata de una misconfiguration, no de un ataque activo. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición sin necesidad de aislar instancias o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-000980",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una política IAM con wildcard (misconfiguration) con alta confianza (0.987), fuera de horario y sin MFA. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto para eliminar el riesgo de exposición de recursos sin necesidad de aislar instancias o revocar credenciales, ya que el problema es de configuración, no de compromiso activo."
+  },
+  {
+    "event_id": "EVT-001000",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración crítica (ACL pública, rol sin MFA) con alta confianza (0.997) y evidencia de transferencia de datos anómala. Se revierte la configuración insegura a su estado seguro por defecto para evitar exposición no autorizada de recursos."
+  },
+  {
+    "event_id": "EVT-005525",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración crítica con ACL pública y política IAM con wildcard, lo que permite acceso no autorizado y alta transferencia de datos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición."
+  },
+  {
+    "event_id": "EVT-001131",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza (ML 1.0). Alta entropía IP, múltiples peticiones a recursos, IAM con wildcard y sin MFA indican un atacante activo dentro del entorno. Aislar la instancia detiene la propagación y permite preservar evidencia forense antes de terminarla."
+  },
+  {
+    "event_id": "EVT-004800",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza (0.997): se detectó alta entropía IP, múltiples peticiones, uso de IAM con wildcard y un nuevo rol asumido sin MFA. Aislar la instancia detiene la propagación del atacante dentro de la red y permite realizar un snapshot forense para investigar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-000718",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: alta entropía IP, múltiples peticiones a recursos, uso de IAM wildcard y nuevo rol fuera de horario sin MFA. Se aísla la instancia para contener la propagación del atacante, se activa snapshot forense antes de terminarla para preservar evidencia."
+  },
+  {
+    "event_id": "EVT-000653",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral con alta confianza: alta entropía de IP, múltiples recursos tocados y un nuevo rol asumido indican que un atacante podría estar desplazándose dentro del entorno. Aislar la instancia/función comprometida detiene la progresión del ataque y permite capturar un snapshot forense para investigar el alcance real de la intrusión."
+  },
+  {
+    "event_id": "EVT-002296",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002296 corresponde a una mala configuración (misconfiguration) con ACL pública y permisos wildcard IAM. Aunque hay MFA presente, estas configuraciones inseguras exponen recursos innecesariamente. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de exposición no autorizada."
+  },
+  {
+    "event_id": "EVT-004898",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y permisos IAM con wildcard, lo que expone recursos cloud a accesos no autorizados. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición, sin necesidad de aislar instancias o revocar credenciales, ya que la amenaza es de tipo misconfiguration y no un compromiso activo de credenciales."
+  },
+  {
+    "event_id": "EVT-004563",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004563 corresponde a una mala configuración (misconfiguration) con ACL pública y permisos IAM con wildcard. Aunque hay MFA presente, estas configuraciones inseguras exponen recursos críticos. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de acceso no autorizado."
+  },
+  {
+    "event_id": "EVT-000203",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-000203 corresponde a una misconfiguration de severidad MEDIA, con consenso de 2 agentes. Se detectó una ACL pública y un nuevo rol asumido, lo que representa una exposición innecesaria de recursos. Aunque no hay wildcard, revertir la configuración insegura a su estado seguro por defecto es la acción más adecuada para eliminar el riesgo sin afectar la disponibilidad del servicio."
+  },
+  {
+    "event_id": "EVT-001192",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: alta entropía, múltiples recursos comprometidos, permisos wildcard y nuevo rol creado en horario atípico. Se aísla la instancia para contener la propagación, se activa snapshot forense antes de terminarla, evitando que el atacante siga moviéndose lateralmente en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-002708",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta certeza: alta entropía, gran volumen de transferencia fuera de horario, ACL pública y sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos, permite preservar evidencia forense con un snapshot y evita que el atacante continúe extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-003144",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta certeza: alta entropía, múltiples peticiones, permisos wildcard, rol sospechoso asumido y gran transferencia de datos sin MFA. Revocar credenciales y forzar reautenticación con MFA es la acción más rápida para cortar el acceso del atacante y detener la fuga de datos en curso."
+  },
+  {
+    "event_id": "EVT-005894",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó alta entropía, acceso a múltiples recursos, uso de permisos wildcard y un nuevo rol asumido sin MFA. Aislar la instancia/función comprometida detiene la propagación del atacante y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-005194",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta entropía, gran transferencia fuera de horario y sin MFA. La instancia tiene ACL pública y permisos wildcard, lo que facilita la fuga. Se aísla la instancia de la red para contener la exfiltración y se activa un snapshot forense para preservar evidencia antes de terminarla."
+  },
+  {
+    "event_id": "EVT-005276",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó asunción de un nuevo rol con permisos wildcard, fuera de horario y sin MFA, accediendo a múltiples recursos. Aislar la instancia/función comprometida detiene la propagación del atacante y permite preservar evidencia forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-001603",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una misconfiguración con permisos wildcard IAM y un rol asumido de forma indebida. Se revierte la configuración insegura a su estado seguro por defecto para eliminar el riesgo de escalada de privilegios, sin necesidad de aislar instancias ni revocar credenciales ya que no hay evidencia de actividad maliciosa activa ni horario atípico."
+  },
+  {
+    "event_id": "EVT-002212",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración crítica: ACL pública, permisos wildcard y un nuevo rol sin MFA en horario atípico. Esto expone recursos cloud a accesos no autorizados. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque de forma inmediata."
+  },
+  {
+    "event_id": "EVT-004795",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: múltiples peticiones a recursos internos, transferencia alta de datos, uso de nuevo rol sin MFA y horario atípico. Se aísla la instancia para contener la propagación del atacante dentro del entorno cloud y se activa un snapshot forense para su posterior análisis."
+  },
+  {
+    "event_id": "EVT-005899",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguración crítica con ACL pública y permisos wildcard, lo que expone recursos cloud a accesos no autorizados. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-002613",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: alta entropia, multiples recursos, transferencia elevada y uso de nuevo rol en horario atipico. Se aísla la instancia para contener la propagacion del atacante, cortar su acceso a la red y preservar evidencias mediante snapshot forense antes de terminarla."
+  },
+  {
+    "event_id": "EVT-002667",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002667 corresponde a una misconfiguración (ACL pública, nuevo rol sin MFA) con severidad MEDIA y consenso de 2 agentes. Aunque no hay actividad maliciosa evidente (baja transferencia, sin horario atípico), la exposición de recursos por configuraciones inseguras representa un riesgo innecesario. Se revierte la configuración al estado seguro por defecto para eliminar la superficie de ataque sin necesidad de aislar instancias ni revocar credenciales, ya que no hay evidencia de compromiso activo."
+  },
+  {
+    "event_id": "EVT-005718",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: alta entropia, multiples peticiones a recursos, permisos wildcard y nuevo rol en horario atipico. Se aísla la instancia para contener la propagación del atacante, se activa snapshot forense para preservar evidencias y se termina la instancia para eliminar el punto de apoyo del adversario."
+  },
+  {
+    "event_id": "EVT-002235",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: múltiples peticiones a recursos diversos, permisos wildcard, nuevo rol creado y ausencia de MFA. Se aísla la instancia para contener la propagación del atacante, cortar su acceso a la red y preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-003266",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003266 corresponde a una mala configuracion (misconfiguration) con ACL publica y permisos wildcard. Aunque la severidad es media, el consenso de 2 agentes confirma que no hay indicios de compromiso activo (sin nuevo rol ni horario atipico), por lo que lo mas adecuado es revertir la configuracion insegura a su estado seguro por defecto para eliminar la exposicion innecesaria."
+  },
+  {
+    "event_id": "EVT-005834",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó acceso a múltiples recursos, asunción de nuevo rol sin MFA y alta entropía IP. Aislar la instancia/función comprometida detiene la propagación del atacante dentro del entorno cloud y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-001984",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de severidad ALTA con ACL pública y permisos wildcard IAM. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto, eliminando la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-005319",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y permisos IAM con wildcard, lo que constituye una mala configuración que expone recursos cloud. Aunque MFA está presente, la política insegura debe revertirse a su estado seguro por defecto para eliminar el riesgo de acceso no autorizado."
+  },
+  {
+    "event_id": "EVT-002283",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una política IAM con permisos wildcard y un rol asumido fuera del horario laboral. Aunque hay MFA presente, la configuración insegura representa un riesgo de escalada de privilegios. Se revierte la política a su estado seguro por defecto para eliminar la exposición sin afectar la operación normal."
+  },
+  {
+    "event_id": "EVT-001383",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó acceso a múltiples recursos usando un rol recién asumido sin MFA, con alta entropía IP. Aislar la instancia/función comprometida detiene la propagación del atacante y permite preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-002532",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y un rol asumido fuera del horario laboral, lo que indica una misconfiguration que expone recursos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición."
+  },
+  {
+    "event_id": "EVT-000004",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y permisos IAM con wildcard, lo que expone recursos críticos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-001616",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una política IAM con wildcard que constituye una mala configuración. Aunque el riesgo es reducido por baja actividad y MFA activo, revertir la configuración al estado seguro elimina la exposición innecesaria sin afectar la operación normal."
+  },
+  {
+    "event_id": "EVT-001296",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se confirma una misconfiguration crítica: ACL pública y política IAM con wildcard, además de un rol asumido sin MFA en horario no laboral. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata, ya que el consenso de 2 agentes respalda actuar de forma autónoma sin necesidad de escalar a humano."
+  },
+  {
+    "event_id": "EVT-003590",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública y política IAM con wildcard, lo que expone recursos de forma insegura. Además, hay transferencia de datos elevada en horario no laboral sin MFA, indicando posible explotación. Se revierte la configuración a su estado seguro por defecto para contener el riesgo inmediatamente."
+  },
+  {
+    "event_id": "EVT-001530",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se trata de una misconfiguration con ACL pública y política IAM con wildcard. Aunque el MFA está activo y no hay indicios de compromiso activo, la configuración insegura expone recursos innecesariamente. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo sin afectar la operación normal."
+  },
+  {
+    "event_id": "EVT-004612",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública y política IAM con wildcard, además de un nuevo rol asumido sin MFA. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata, ya que se trata de un error de configuración y no de un compromiso activo que requiera aislamiento o revocación de credenciales."
+  },
+  {
+    "event_id": "EVT-000321",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: múltiples recursos comprometidos, IAM con wildcard, nuevo rol creado y sin MFA. Aislar la instancia detiene la propagación del atacante y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-005843",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública mal configurada (misconfiguration) con baja actividad y sin IAM wildcard ni roles nuevos. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto, ya que no hay evidencia de compromiso activo que requiera aislamiento o revocación de credenciales."
+  },
+  {
+    "event_id": "EVT-003138",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Exfiltración confirmada con alta severidad: se detectó transferencia masiva de datos con alta entropía, múltiples peticiones y una política IAM con wildcard que permitió el acceso. Aislar la instancia detiene inmediatamente la fuga de datos, corta la comunicación con el atacante y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-005104",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y política IAM con wildcard. Aunque el MFA está activo y la actividad es baja, estas configuraciones exponen recursos innecesariamente. Se revierte la configuración insegura a su estado seguro por defecto para eliminar el riesgo de exposición no autorizada."
+  },
+  {
+    "event_id": "EVT-005101",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (ML 1.0): transferencia de 543 MB a IP de alta entropía, usando un rol recién asumido sin MFA y con permisos IAM wildcard. La acción prioritaria es revocar las credenciales temporales para cortar el acceso del atacante y forzar reautenticación con MFA, deteniendo la fuga de datos de forma inmediata."
+  },
+  {
+    "event_id": "EVT-004098",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza: se asumió un nuevo rol usando permisos wildcard IAM y se accedió a múltiples recursos (11). Revocar credenciales y forzar reautenticación MFA corta la sesión activa del atacante, impidiendo que continúe desplazándose por el entorno cloud."
+  },
+  {
+    "event_id": "EVT-005547",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se ha confirmado una mala configuración con alta confianza (ML 0.993 y consenso de 2 agentes): ACL pública y permisos wildcard IAM. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-001571",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001571 corresponde a una misconfiguration con alta confianza (ML 0.989) y consenso de 2 agentes. Se detectaron permisos IAM con wildcard y un rol asumido de forma anómala, lo que representa un riesgo de escalada de privilegios. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición sin afectar la disponibilidad del servicio."
+  },
+  {
+    "event_id": "EVT-004388",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó asunción de nuevo rol, acceso a múltiples recursos, transferencia significativa de datos en horario no laboral sin MFA y con permisos wildcard. Aislar la instancia/función comprometida detiene la propagación del atacante y permite preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-002691",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una configuración insegura con permisos IAM wildcard y ausencia de MFA. Aunque la actividad es baja, la exposición es innecesaria. Se revierte la política al estado seguro por defecto para eliminar el riesgo de escalación de privilegios no autorizada."
+  },
+  {
+    "event_id": "EVT-002533",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de severidad ALTA con ACL pública y permisos wildcard, lo que expone recursos críticos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata, en línea con el consenso de los agentes."
+  },
+  {
+    "event_id": "EVT-002703",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó alta entropía IP, acceso a múltiples recursos, permisos wildcard, creación de nuevo rol en horario no laboral sin MFA y alta transferencia de datos. Es necesario aislar la instancia de la red para contener la propagación del ataque y preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-005137",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública, permisos wildcard y un nuevo rol sin MFA, lo que permitió transferencia de datos no autorizada. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición y evitar accesos indebidos."
+  },
+  {
+    "event_id": "EVT-002678",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: alta entropía IP, múltiples recursos accedidos, permisos wildcard y nuevo rol en horario no laboral sin MFA. Se aísla la instancia para contener la propagación del ataque y se activa snapshot forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-002629",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública en horario no laboral. Aunque hay MFA presente y no hay wildcards, la exposición pública de recursos es una misconfiguration que debe revertirse al estado seguro por defecto para evitar accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-003221",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: alta entropía IP, múltiples recursos comprometidos, permisos wildcard y ausencia de MFA. Se aísla la instancia para contener la propagación lateral, cortar el acceso a otros recursos y preservar evidencia forense mediante snapshot antes de terminarla."
+  },
+  {
+    "event_id": "EVT-003094",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003094 corresponde a una misconfiguration con ACL pública y un rol recién asumido que exponen recursos. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición sin afectar la disponibilidad del servicio."
+  },
+  {
+    "event_id": "EVT-003943",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Exfiltración confirmada con alta transferencia de datos, permisos wildcard y ausencia de MFA en horario no laboral. Se revocan las credenciales temporales para detener inmediatamente el acceso no autorizado y forzar reautenticación con MFA, cortando la vía de exfiltración activa."
+  },
+  {
+    "event_id": "EVT-004272",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública que expone recursos de forma indebida. Aunque hay MFA presente y baja actividad, la exposición está confirmada, por lo que se revierte la configuración insegura a su estado seguro por defecto para eliminar el riesgo de acceso no autorizado."
+  },
+  {
+    "event_id": "EVT-001731",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con permisos wildcard, creación de nuevo rol y acceso a múltiples recursos sin MFA. Se revocan credenciales temporales para cortar el acceso del atacante y forzar reautenticación con MFA, deteniendo la progresión lateral en la nube."
+  },
+  {
+    "event_id": "EVT-002238",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con políticas IAM de tipo wildcard y un nuevo rol creado. Aunque la actividad es baja, existe riesgo de escalada de privilegios. Se revierte la configuración insegura a su estado seguro por defecto para eliminar el vector de ataque."
+  },
+  {
+    "event_id": "EVT-004264",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública, políticas IAM con wildcard y ausencia de MFA en horario no laboral. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata, ya que el consenso de 2 agentes respalda la acción automática."
+  },
+  {
+    "event_id": "EVT-001681",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Exfiltración masiva detectada con alta transferencia de datos, uso de wildcard, nuevo rol sin MFA y en horario no laboral. Se revocan las credenciales temporales para cortar el acceso inmediato del atacante y se fuerza reautenticación con MFA para evitar persistencia."
+  },
+  {
+    "event_id": "EVT-005023",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con ACL pública y alta transferencia de datos, sin MFA activo. Es necesario aislar la instancia de la red inmediatamente para detener la fuga de datos y preservar evidencia mediante un snapshot forense antes de terminarla."
+  },
+  {
+    "event_id": "EVT-001606",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta severidad: tráfico de alta entropía, gran transferencia fuera de horario, ACL pública y permisos wildcard. Aislar la instancia detiene la fuga inmediatamente y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-001421",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta entropía IP, transferencia masiva fuera de horario y permisos wildcard. Aunque MFA está presente, las credenciales comprometidas deben revocarse inmediatamente para cortar el acceso del atacante y forzar reautenticación con MFA, deteniendo la fuga de datos."
+  },
+  {
+    "event_id": "EVT-002847",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se ha confirmado una configuración insegura (ACL pública y política IAM con wildcard) con consenso de 2 agentes. Aunque hay MFA presente, la exposición de recursos es innecesaria y debe revertirse al estado seguro por defecto para evitar accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-004056",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta severidad: ACL pública, permisos wildcard, gran transferencia de datos y un rol asumido sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance y evita que el atacante siga extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-005998",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se ha confirmado una mala configuración (misconfiguration) con ACL pública y políticas inseguras. La acción más adecuada es revertir la configuración a su estado seguro por defecto, ya que no hay evidencia de compromiso activo ni actividad maliciosa sostenida, y el MFA está presente, lo que reduce el riesgo de abuso de credenciales."
+  },
+  {
+    "event_id": "EVT-005348",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una configuración insegura con ACL pública y permisos wildcard, sin MFA y con baja actividad. Ambos agentes (ML y Config) coinciden en que es una misconfiguration. Se revierte la configuración a su estado seguro por defecto para eliminar la exposición innecesaria."
+  },
+  {
+    "event_id": "EVT-003068",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-003068 corresponde a una mala configuración (misconfiguration) con ACL pública y permisos wildcard. Dado que el ThreatHuntingAgent y el config agent corroboran la presencia de estos ajustes inseguros, la acción más adecuada es revertir la configuración a su estado seguro por defecto, eliminando la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-003414",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (207 MB transferidos en horario no laboral mediante un rol sospechoso). Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance y evita que el atacante siga extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-004710",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration de baja severidad con ACL pública y permisos wildcard. Aunque la actividad es baja (2 req/min), la configuración insegura debe revertirse a su estado seguro por defecto para evitar exposición futura. No se requiere aislamiento ni revocación de credenciales, ya que no hay evidencia de compromiso activo."
+  },
+  {
+    "event_id": "EVT-003234",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó movimiento lateral con alta confianza: el atacante está asumiendo un nuevo rol con permisos wildcard y accediendo a múltiples recursos. Aislar la instancia o función serverless de la red y tomar un snapshot forense permite contener la propagación del ataque y preservar evidencia para análisis posterior."
+  },
+  {
+    "event_id": "EVT-003398",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública (misconfiguration de baja severidad) con baja actividad y transferencia. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria, sin necesidad de aislar instancias ni revocar credenciales."
+  },
+  {
+    "event_id": "EVT-005621",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó movimiento lateral con alta confianza (1.0), donde un atacante asumió un nuevo rol con permisos wildcard en horario no laboral, accediendo a múltiples recursos. Aislar la instancia/función comprometida detiene la propagación del ataque, evita el acceso a más recursos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-002659",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza (ML 1.0): se detectó acceso a múltiples recursos desde IP de alta entropía, uso de nuevo rol con permisos wildcard, sin MFA y en horario no laboral, con transferencia significativa de datos. Se aísla la instancia para contener la propagación del ataque y se activa snapshot forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-000399",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza (0.91): se detectó acceso a múltiples recursos desde IP de alta entropía, asunción de nuevo rol con permisos wildcard en horario no laboral. Aunque MFA está presente, el comportamiento es consistente con un atacante que ya comprometió una instancia y busca expandirse. Se aísla la instancia origen para contener el avance lateral y se activa snapshot forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-000830",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y permisos wildcard en horario no laboral, sin MFA y con baja actividad. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos."
+  },
+  {
+    "event_id": "EVT-004297",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una configuración insegura con permisos wildcard y sin MFA, con alta confianza del modelo (0.945) y consenso de 2 agentes. La amenaza es de tipo misconfiguration, por lo que la acción más adecuada es revertir la configuración a su estado seguro por defecto, eliminando los permisos excesivos y forzando el uso de MFA."
+  },
+  {
+    "event_id": "EVT-005732",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (ML 1.0, consenso 2 agentes). La instancia presenta ACL pública, permisos wildcard y transferencia masiva de datos en horario no laboral sin MFA. Se aísla la instancia de la red para contener la fuga y se activa snapshot forense para preservar evidencia antes de terminarla."
+  },
+  {
+    "event_id": "EVT-001550",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-001550 corresponde a una mala configuración (misconfiguration) con ACL pública y permisos wildcard, confirmada por ML y config agent. No hay indicios de actividad maliciosa activa (baja entropía IP, pocas solicitudes, horario laboral), por lo que se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria."
+  },
+  {
+    "event_id": "EVT-002031",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con ACL pública y permisos wildcard en un rol nuevo. Aunque hay MFA presente y baja entropía, la exposición de recursos por configuraciones inseguras representa un riesgo de acceso no autorizado. Se revierte la configuración a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-003592",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública en horario laboral con baja entropía IP y pocas solicitudes, lo que sugiere una mala configuración accidental más que un ataque activo. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria."
+  },
+  {
+    "event_id": "EVT-002357",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-002357 corresponde a una mala configuración (misconfiguration) con ACL pública y permisos wildcard, confirmada por ML con confianza 1.0 y por el config agent. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria de recursos, sin necesidad de aislar instancias ni revocar credenciales, ya que no hay evidencia de actividad maliciosa activa."
+  },
+  {
+    "event_id": "EVT-004327",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con IAM wildcard permissions activas. Dado que el consenso confirma que es una mala configuración persistente sin actividad maliciosa significativa, la acción más adecuada es revertir la política insegura a su estado seguro por defecto, eliminando el riesgo de exposición sin necesidad de aislar recursos o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-000560",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó movimiento lateral con alta confianza (1.0), múltiples recursos tocados, un nuevo rol asumido en horario no laboral y alta entropía, lo que sugiere que un atacante ya comprometió un recurso y está expandiendo su acceso. Aislar la instancia de la red y tomar un snapshot forense permite contener la propagación y preservar evidencia para análisis posterior."
+  },
+  {
+    "event_id": "EVT-004335",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta confianza: alta entropía, múltiples requests y transferencia significativa de datos. Además, hay configuraciones inseguras (IAM wildcard, sin MFA) que facilitaron el ataque. Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-003878",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública con alta confianza (1.0) y consenso de 2 agentes. Aunque la severidad es media, la exposición de recursos por una ACL pública representa un riesgo de acceso no autorizado. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición inmediata."
+  },
+  {
+    "event_id": "EVT-004180",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta EVT-004180 corresponde a una misconfiguration con confianza 1.0, donde se detectó una ACL pública y una política IAM con wildcard activa. Aunque no hay evidencia de explotación activa, esta configuración insegura expone recursos críticos. Se revierte la configuración a su estado seguro por defecto para eliminar el riesgo de acceso no autorizado."
+  },
+  {
+    "event_id": "EVT-002982",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una mala configuración con alta confianza (ACL pública y política IAM con wildcard activas). Dado que el consenso entre agentes es suficiente y no hay indicios de actividad maliciosa activa, lo más adecuado es revertir la configuración insegura a su estado seguro por defecto, eliminando el riesgo de exposición de datos."
+  },
+  {
+    "event_id": "EVT-003434",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una política IAM con wildcard activo que permite permisos excesivos, corroborada por ML y el config agent. Se revierte la configuración insegura a su estado seguro por defecto para eliminar el riesgo de escalada de privilegios o exposición no deseada."
+  },
+  {
+    "event_id": "EVT-001089",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza (1.0): alta entropía, acceso a múltiples recursos, uso de IAM wildcard y nuevo rol en horario no laboral sin MFA. Se aísla la instancia para contener la propagación del atacante y se activa snapshot forense para análisis posterior."
+  },
+  {
+    "event_id": "EVT-002874",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: alto volumen de datos salientes, alta entropía en IP destino, permisos wildcard y ausencia de MFA en horario no laboral. Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-002939",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se trata de una misconfiguration con ACL pública y permisos wildcard. Aunque la severidad es media y hay MFA presente, la exposición de recursos con permisos excesivos representa un riesgo de acceso no autorizado. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-001666",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta confianza: se detectó alta entropía IP, asunción de un nuevo rol con permisos wildcard y ausencia de MFA. Aislar la instancia evita que el atacante siga moviéndose dentro del entorno cloud, y el snapshot forense permitirá analizar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-000815",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: tráfico de alta entropía, gran volumen de datos en horario no laboral, permisos wildcard y sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-001617",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública con permisos wildcard, lo que expone recursos de forma innecesaria. Aunque la severidad es media y hay MFA presente, revertir la configuración al estado seguro por defecto elimina el riesgo de exposición sin afectar la operatividad del usuario legítimo."
+  },
+  {
+    "event_id": "EVT-005696",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: alto volumen de datos salientes, alta entropía en IP destino, horario no laboral, y configuraciones inseguras (ACL pública, permisos wildcard, sin MFA). Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-000102",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública con permisos wildcard en horario no laboral, lo que expone recursos de forma innecesaria. Aunque la severidad es media y no hay actividad maliciosa confirmada, revertir la configuración al estado seguro por defecto elimina el riesgo de exposición accidental sin necesidad de aislar instancias o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-002441",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza: tráfico saliente anómalo con alta entropía, gran volumen de datos en horario no laboral, permisos wildcard y ausencia de MFA. Aislar la instancia detiene inmediatamente la fuga de datos y permite realizar un snapshot forense para investigar el alcance del incidente."
+  },
+  {
+    "event_id": "EVT-001320",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detecta exfiltración de datos con alta confianza: alto volumen de datos salientes, entropía IP elevada, ACL pública y ausencia de MFA. Aislar la instancia detiene inmediatamente la fuga, permite tomar un snapshot forense para investigar el alcance y evita que el atacante continúe extrayendo información."
+  },
+  {
+    "event_id": "EVT-004738",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "La alerta corresponde a una misconfiguración (ACL pública y rol asumido fuera de horario laboral) con consenso de 2 agentes. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición innecesaria, sin necesidad de aislar instancias o revocar credenciales, ya que no hay evidencia de compromiso activo."
+  },
+  {
+    "event_id": "EVT-001254",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Exfiltración confirmada con 527 MB transferidos, permisos wildcard IAM y rol asumido sin MFA. Se revocan credenciales temporales para cortar el acceso inmediato del atacante y forzar reautenticación con MFA, deteniendo la fuga de datos en curso."
+  },
+  {
+    "event_id": "EVT-004891",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó asunción de un nuevo rol sin MFA en horario no laboral, usando permisos wildcard y afectando múltiples recursos. Aislar la instancia evita que el atacante siga desplazándose lateralmente, y el snapshot forense permitirá analizar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-000984",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con permisos wildcard y rol asumido fuera de horario laboral. Se aísla la instancia para contener la propagación del atacante, se activa snapshot forense para preservar evidencia y se termina la instancia para eliminar el punto de apoyo en la red."
+  },
+  {
+    "event_id": "EVT-002308",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta confianza: se asumió un nuevo rol con permisos wildcard en horario no laboral sin MFA. Revocar credenciales y forzar reautenticación con MFA corta el acceso del atacante y evita que continúe desplazándose por el entorno cloud."
+  },
+  {
+    "event_id": "EVT-000143",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral detectado con alta severidad: se asumió un nuevo rol con permisos wildcard, accediendo a múltiples recursos sin MFA. Revocar credenciales y forzar reautenticación con MFA corta el acceso del atacante y evita que siga desplazándose lateralmente en el entorno cloud."
+  },
+  {
+    "event_id": "EVT-003323",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectaron permisos wildcard IAM (misconfiguración) con consenso de 2 agentes y máxima confianza ML. Se revierte la política insegura a su estado seguro por defecto para eliminar el riesgo de exposición excesiva de recursos."
+  },
+  {
+    "event_id": "EVT-003765",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (ML + config agent), 223 MB transferidos con alta entropía IP y un rol sospechoso recién asumido. Aislar la instancia detiene inmediatamente la fuga, permite preservar evidencia forense mediante snapshot y evita que el atacante continúe extrayendo datos o moviéndose lateralmente."
+  },
+  {
+    "event_id": "EVT-005288",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se trata de una mala configuración (misconfiguration) con ACL pública y permisos wildcard, lo que expone recursos de forma innecesaria. Aunque la transferencia de datos es baja, el riesgo de exposición es alto. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-003912",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Movimiento lateral confirmado con alta severidad: se detectó acceso a múltiples recursos desde IP de alta entropía, asunción de un nuevo rol en horario no laboral. Aislar la instancia evita que el atacante siga desplazándose lateralmente hacia otros recursos, y el snapshot forense permitirá analizar el alcance del compromiso."
+  },
+  {
+    "event_id": "EVT-000111",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó movimiento lateral con alta confianza, corroborado por múltiples agentes. Aunque hay MFA presente y no se asumió un nuevo rol, la alta entropía IP y el acceso a múltiples recursos indican una posible intrusión activa. Aislar la instancia evita que el atacante se desplace a más recursos, permitiendo además tomar un snapshot forense para investigar el origen del compromiso."
+  },
+  {
+    "event_id": "EVT-005438",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con alta confianza (252 MB transferidos, alta entropía IP, rol asumido sin MFA). Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance, y evita que el atacante siga extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-000546",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se trata de una misconfiguration con ACL pública y permisos wildcard confirmada por consenso de agentes. Aunque hay MFA presente y baja actividad, la exposición de recursos es innecesaria y representa un riesgo de acceso no autorizado. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-004751",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública y permisos wildcard en la configuración, lo que expone recursos cloud innecesariamente. Aunque la transferencia de datos es baja, el riesgo de exposición es alto. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la superficie de ataque."
+  },
+  {
+    "event_id": "EVT-000179",
+    "agent": "ResponseAgent_LLM",
+    "action": "aislar_instancia",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con 706 MB transferidos, alta entropía IP y rol asumido sin MFA. Aislar la instancia detiene inmediatamente la fuga de datos, permite tomar un snapshot forense para investigar el alcance y evita que el atacante continúe extrayendo información sensible."
+  },
+  {
+    "event_id": "EVT-000272",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos con 774 MB transferidos, alta entropía IP y sin MFA. Revocar credenciales y forzar reautenticación con MFA es la acción más rápida para cortar el acceso del atacante y evitar más pérdida de datos, mientras se preserva la instancia para análisis forense posterior."
+  },
+  {
+    "event_id": "EVT-003892",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se trata de una misconfiguration de baja severidad, sin ACL pública activa y con MFA presente, pero con consenso suficiente para actuar. La acción más adecuada es revertir la configuración insegura a su estado seguro por defecto, ya que no hay evidencia de compromiso activo ni necesidad de aislar instancias o revocar credenciales."
+  },
+  {
+    "event_id": "EVT-004045",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó exfiltración de datos (437.95 MB) con permisos IAM wildcard, rol recién asumido sin MFA en horario no laboral. Revocar credenciales y forzar reautenticación con MFA es la acción más rápida para cortar el acceso del atacante y evitar mayor fuga de datos, mientras se investiga el alcance completo."
+  },
+  {
+    "event_id": "EVT-002492",
+    "agent": "ResponseAgent_LLM",
+    "action": "revocar_credenciales",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó movimiento lateral con un nuevo rol asumido y permisos IAM con wildcard. Aunque la severidad es media y la transferencia de datos baja, la presencia de credenciales potencialmente comprometidas y permisos excesivos justifica revocar las credenciales temporales y forzar reautenticación con MFA para contener el avance del atacante."
+  },
+  {
+    "event_id": "EVT-003411",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una ACL pública en horario no laboral y sin MFA, con alta confianza ML y consenso de 2 agentes. Se revierte la configuración insegura a su estado seguro por defecto para eliminar la exposición no autorizada de recursos."
+  },
+  {
+    "event_id": "EVT-005216",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration con permisos IAM wildcard y un nuevo rol asumido, lo que representa un riesgo de escalada de privilegios. Aunque no hay ACL pública, la política IAM insegura debe revertirse a su estado seguro por defecto para evitar accesos no autorizados."
+  },
+  {
+    "event_id": "EVT-005875",
+    "agent": "ResponseAgent_LLM",
+    "action": "revertir_configuracion",
+    "status": "EJECUTADA_AUTOMATICAMENTE_LLM",
+    "consensus_votes": 2,
+    "reasoning_llm": "Se detectó una misconfiguration crítica con ACL pública y permisos IAM con wildcard. Aunque la transferencia de datos es baja, la exposición de recursos es alta y podría ser explotada. Se revierte la configuración insegura a su estado seguro por defecto para eliminar el riesgo de acceso no autorizado."
+  }
+]
